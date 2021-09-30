@@ -1,0 +1,869 @@
+<html lang="id-ID" class="  webp webp-alpha webp-animation webp-lossless"><head>
+    <!-- Global site GTM Analytics -->
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/config.js?sdkid=C4ATQAEJGOC88M14N1N0&amp;hostname=skillacademy.com"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C4ATQAEJGOC88M14N1N0&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://cdn.taboola.com/libtrc/unip/1407180/tfa.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-PQQLJEY9WY&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-KGEN8KBRBW&amp;l=dataLayer&amp;cx=c"></script><script src="https://connect.facebook.net/signals/config/848484172220637?v=2.9.47&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T5SBK6R"></script><script>
+      dataLayer = []
+    </script>
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-T5SBK6R');
+    </script>
+    <!-- End GTM Analytics -->
+    <script type="text/javascript">
+      var AKAMAI_MEDIA_ANALYTICS_CONFIG_FILE_PATH ='https://ma1528-r.analytics.edgekey.net/config/beacon-31062.xml';
+    </script>
+    <script src="https://79423.analytics.edgekey.net/html5/akamaihtml5-min.js"></script>
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window,document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '848484172220637'); 
+      fbq('track', 'PageView');
+    </script>
+    <noscript>
+      <img height="1" width="1" 
+      src="https://www.facebook.com/tr?id=848484172220637&ev=PageView
+      &noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+      <title>Skill Academy</title>
+      <meta name="title" content="Skill Academy">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://skillacademy-demo.s3-ap-southeast-1.amazonaws.com/favicon.ico">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link as="style" rel="stylesheet preload prefetch" href="https://fonts.googleapis.com/css?family=Rubik:500|Source+Sans+Pro:400,600,700,900|Montserrat:400,600,700,900&amp;display=swap" type="text/css" crossorigin="">
+
+
+
+  <script>
+    window._IS_BOT = false
+  </script>
+
+  <script>
+    window._CONFIGS = {"appName":"Skill Academy","favicon":"https://skillacademy-demo.s3-ap-southeast-1.amazonaws.com/favicon.ico","fontSrc":"https://fonts.googleapis.com/css?family=Rubik:500|Source+Sans+Pro:400,600,700,900|Montserrat:400,600,700,900&display=swap","akamaiVideoTracking":true,"apiEndpoint":"http://gw.rg.internal","trackerEndpoint":"https://tracker.ruangguru.com","appClientId":"729QGoN41A","appClientSecret":"ekh6PbuuO8swo2h5ajYJ","facebookAppId":"479506409510977","facebookRedirectUri":"https://skillacademy.com","fbPixelId":"848484172220637","apiCallTimeout":10000,"googleClientId":"804712196556-bdkmir3rvs401mc76pjoepkkv9edt7sj.apps.googleusercontent.com","sentryDSN":"https://5843765beea64b24a38dc9f3518ddb4c@sentry.io/1785552","environment":"production","isSSREnabled":false,"country":"id","appEndpoint":"https://gw.ruangguru.com","isCordova":false,"gtmId":"GTM-T5SBK6R","lang":"id-ID","publisher":"PT Ruang Raya Indonesia","gaTrackerId":"UA-148380173-1","adjustAppSecretId":1,"adjustAppSecretInfo1":1407650200,"adjustAppSecretInfo2":416586128,"adjustAppSecretInfo3":1886800546,"adjustAppSecretInfo4":1440508882,"ovoIntegrationEndpoint":"wss://ovo-integration-skillacademy.sirogu.com","wsBroadcastEndPoint":"wss://broadcast-staging.sirogu.com/api/v3","qiscusAppId":"ump-jks0xieqivs8uasfu","siteUrl":"https://skillacademy.com","minimalMissionPostTest":100,"enableNextJS":false}
+  </script>
+  <script>
+    window._STORE = {}
+  </script>
+  
+<script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/627210856/?random=1633015382997&amp;cv=9&amp;fst=1633015382997&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=2&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg9r0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fskillacademy.com%2F&amp;tiba=Skill%20Academy&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/928732224/?random=1633015383011&amp;cv=9&amp;fst=1633015383011&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=2&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg9r0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fskillacademy.com%2F&amp;tiba=Skill%20Academy&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/411229580/?random=1633015383013&amp;cv=9&amp;fst=1633015383013&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=2&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg9r0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fskillacademy.com%2F&amp;tiba=Skill%20Academy&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/704731569/?random=1633015383014&amp;cv=9&amp;fst=1633015383014&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=2&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg9r0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fskillacademy.com%2F&amp;tiba=Skill%20Academy&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script charset="utf-8" src="https://analytics.tiktok.com/i18n/pixel/identify.js"></script><script type="text/javascript" async="" src="//static.criteo.net/js/ld/ld.js"></script><meta http-equiv="origin-trial" content="A4RpyXPHPXj2Tt0KMMrya+U6IibH8/6yFLknmyK5ZwpgUNYhhwGyllkLZNqKedteT7fKzxsI8p/Pbpbd4tEJOQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2NyaXRlby5uZXQ6NDQzIiwiZmVhdHVyZSI6IkludGVyZXN0Q29ob3J0QVBJIiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><style data-emotion=""></style><style>/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+/* Document
+   ========================================================================== */
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+
+html {
+  line-height: 1.15; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+/* Sections
+   ========================================================================== */
+
+/**
+ * Remove the margin in all browsers.
+ */
+
+body {
+  margin: 0;
+}
+
+/**
+ * Render the `main` element consistently in IE.
+ */
+
+main {
+  display: block;
+}
+
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+/* Grouping content
+   ========================================================================== */
+
+/**
+ * 1. Add the correct box sizing in Firefox.
+ * 2. Show the overflow in Edge and IE.
+ */
+
+hr {
+  box-sizing: content-box; /* 1 */
+  height: 0; /* 1 */
+  overflow: visible; /* 2 */
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+pre {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+/* Text-level semantics
+   ========================================================================== */
+
+/**
+ * Remove the gray background on active links in IE 10.
+ */
+
+a {
+  background-color: transparent;
+}
+
+/**
+ * 1. Remove the bottom border in Chrome 57-
+ * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ */
+
+abbr[title] {
+  border-bottom: none; /* 1 */
+  text-decoration: underline; /* 2 */
+  text-decoration: underline dotted; /* 2 */
+}
+
+/**
+ * Add the correct font weight in Chrome, Edge, and Safari.
+ */
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+code,
+kbd,
+samp {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+/**
+ * Add the correct font size in all browsers.
+ */
+
+small {
+  font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in
+ * all browsers.
+ */
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+/* Embedded content
+   ========================================================================== */
+
+/**
+ * Remove the border on images inside links in IE 10.
+ */
+
+img {
+  border-style: none;
+}
+
+/* Forms
+   ========================================================================== */
+
+/**
+ * 1. Change the font styles in all browsers.
+ * 2. Remove the margin in Firefox and Safari.
+ */
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit; /* 1 */
+  font-size: 100%; /* 1 */
+  line-height: 1.15; /* 1 */
+  margin: 0; /* 2 */
+}
+
+/**
+ * Show the overflow in IE.
+ * 1. Show the overflow in Edge.
+ */
+
+button,
+input { /* 1 */
+  overflow: visible;
+}
+
+/**
+ * Remove the inheritance of text transform in Edge, Firefox, and IE.
+ * 1. Remove the inheritance of text transform in Firefox.
+ */
+
+button,
+select { /* 1 */
+  text-transform: none;
+}
+
+/**
+ * Correct the inability to style clickable types in iOS and Safari.
+ */
+
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: button;
+}
+
+/**
+ * Remove the inner border and padding in Firefox.
+ */
+
+button::-moz-focus-inner,
+[type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}
+
+/**
+ * Restore the focus styles unset by the previous rule.
+ */
+
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+  outline: 1px dotted ButtonText;
+}
+
+/**
+ * Correct the padding in Firefox.
+ */
+
+fieldset {
+  padding: 0.35em 0.75em 0.625em;
+}
+
+/**
+ * 1. Correct the text wrapping in Edge and IE.
+ * 2. Correct the color inheritance from `fieldset` elements in IE.
+ * 3. Remove the padding so developers are not caught out when they zero out
+ *    `fieldset` elements in all browsers.
+ */
+
+legend {
+  box-sizing: border-box; /* 1 */
+  color: inherit; /* 2 */
+  display: table; /* 1 */
+  max-width: 100%; /* 1 */
+  padding: 0; /* 3 */
+  white-space: normal; /* 1 */
+}
+
+/**
+ * Add the correct vertical alignment in Chrome, Firefox, and Opera.
+ */
+
+progress {
+  vertical-align: baseline;
+}
+
+/**
+ * Remove the default vertical scrollbar in IE 10+.
+ */
+
+textarea {
+  overflow: auto;
+}
+
+/**
+ * 1. Add the correct box sizing in IE 10.
+ * 2. Remove the padding in IE 10.
+ */
+
+[type="checkbox"],
+[type="radio"] {
+  box-sizing: border-box; /* 1 */
+  padding: 0; /* 2 */
+}
+
+/**
+ * Correct the cursor style of increment and decrement buttons in Chrome.
+ */
+
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+
+[type="search"] {
+  -webkit-appearance: textfield; /* 1 */
+  outline-offset: -2px; /* 2 */
+}
+
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+
+::-webkit-file-upload-button {
+  -webkit-appearance: button; /* 1 */
+  font: inherit; /* 2 */
+}
+
+/* Interactive
+   ========================================================================== */
+
+/*
+ * Add the correct display in Edge, IE 10+, and Firefox.
+ */
+
+details {
+  display: block;
+}
+
+/*
+ * Add the correct display in all browsers.
+ */
+
+summary {
+  display: list-item;
+}
+
+/* Misc
+   ========================================================================== */
+
+/**
+ * Add the correct display in IE 10+.
+ */
+
+template {
+  display: none;
+}
+
+/**
+ * Add the correct display in IE 10.
+ */
+
+[hidden] {
+  display: none;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uLy4uL25vZGVfbW9kdWxlcy9ub3JtYWxpemUuY3NzL25vcm1hbGl6ZS5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsMkVBQTJFOztBQUUzRTsrRUFDK0U7O0FBRS9FOzs7RUFHRTs7QUFFRjtFQUNFLGlCQUFpQixFQUFFLE1BQU07RUFDekIsOEJBQThCLEVBQUUsTUFBTTtBQUN4Qzs7QUFFQTsrRUFDK0U7O0FBRS9FOztFQUVFOztBQUVGO0VBQ0UsU0FBUztBQUNYOztBQUVBOztFQUVFOztBQUVGO0VBQ0UsY0FBYztBQUNoQjs7QUFFQTs7O0VBR0U7O0FBRUY7RUFDRSxjQUFjO0VBQ2QsZ0JBQWdCO0FBQ2xCOztBQUVBOytFQUMrRTs7QUFFL0U7OztFQUdFOztBQUVGO0VBQ0UsdUJBQXVCLEVBQUUsTUFBTTtFQUMvQixTQUFTLEVBQUUsTUFBTTtFQUNqQixpQkFBaUIsRUFBRSxNQUFNO0FBQzNCOztBQUVBOzs7RUFHRTs7QUFFRjtFQUNFLGlDQUFpQyxFQUFFLE1BQU07RUFDekMsY0FBYyxFQUFFLE1BQU07QUFDeEI7O0FBRUE7K0VBQytFOztBQUUvRTs7RUFFRTs7QUFFRjtFQUNFLDZCQUE2QjtBQUMvQjs7QUFFQTs7O0VBR0U7O0FBRUY7RUFDRSxtQkFBbUIsRUFBRSxNQUFNO0VBQzNCLDBCQUEwQixFQUFFLE1BQU07RUFDbEMsaUNBQWlDLEVBQUUsTUFBTTtBQUMzQzs7QUFFQTs7RUFFRTs7QUFFRjs7RUFFRSxtQkFBbUI7QUFDckI7O0FBRUE7OztFQUdFOztBQUVGOzs7RUFHRSxpQ0FBaUMsRUFBRSxNQUFNO0VBQ3pDLGNBQWMsRUFBRSxNQUFNO0FBQ3hCOztBQUVBOztFQUVFOztBQUVGO0VBQ0UsY0FBYztBQUNoQjs7QUFFQTs7O0VBR0U7O0FBRUY7O0VBRUUsY0FBYztFQUNkLGNBQWM7RUFDZCxrQkFBa0I7RUFDbEIsd0JBQXdCO0FBQzFCOztBQUVBO0VBQ0UsZUFBZTtBQUNqQjs7QUFFQTtFQUNFLFdBQVc7QUFDYjs7QUFFQTsrRUFDK0U7O0FBRS9FOztFQUVFOztBQUVGO0VBQ0Usa0JBQWtCO0FBQ3BCOztBQUVBOytFQUMrRTs7QUFFL0U7OztFQUdFOztBQUVGOzs7OztFQUtFLG9CQUFvQixFQUFFLE1BQU07RUFDNUIsZUFBZSxFQUFFLE1BQU07RUFDdkIsaUJBQWlCLEVBQUUsTUFBTTtFQUN6QixTQUFTLEVBQUUsTUFBTTtBQUNuQjs7QUFFQTs7O0VBR0U7O0FBRUY7UUFDUSxNQUFNO0VBQ1osaUJBQWlCO0FBQ25COztBQUVBOzs7RUFHRTs7QUFFRjtTQUNTLE1BQU07RUFDYixvQkFBb0I7QUFDdEI7O0FBRUE7O0VBRUU7O0FBRUY7Ozs7RUFJRSwwQkFBMEI7QUFDNUI7O0FBRUE7O0VBRUU7O0FBRUY7Ozs7RUFJRSxrQkFBa0I7RUFDbEIsVUFBVTtBQUNaOztBQUVBOztFQUVFOztBQUVGOzs7O0VBSUUsOEJBQThCO0FBQ2hDOztBQUVBOztFQUVFOztBQUVGO0VBQ0UsOEJBQThCO0FBQ2hDOztBQUVBOzs7OztFQUtFOztBQUVGO0VBQ0Usc0JBQXNCLEVBQUUsTUFBTTtFQUM5QixjQUFjLEVBQUUsTUFBTTtFQUN0QixjQUFjLEVBQUUsTUFBTTtFQUN0QixlQUFlLEVBQUUsTUFBTTtFQUN2QixVQUFVLEVBQUUsTUFBTTtFQUNsQixtQkFBbUIsRUFBRSxNQUFNO0FBQzdCOztBQUVBOztFQUVFOztBQUVGO0VBQ0Usd0JBQXdCO0FBQzFCOztBQUVBOztFQUVFOztBQUVGO0VBQ0UsY0FBYztBQUNoQjs7QUFFQTs7O0VBR0U7O0FBRUY7O0VBRUUsc0JBQXNCLEVBQUUsTUFBTTtFQUM5QixVQUFVLEVBQUUsTUFBTTtBQUNwQjs7QUFFQTs7RUFFRTs7QUFFRjs7RUFFRSxZQUFZO0FBQ2Q7O0FBRUE7OztFQUdFOztBQUVGO0VBQ0UsNkJBQTZCLEVBQUUsTUFBTTtFQUNyQyxvQkFBb0IsRUFBRSxNQUFNO0FBQzlCOztBQUVBOztFQUVFOztBQUVGO0VBQ0Usd0JBQXdCO0FBQzFCOztBQUVBOzs7RUFHRTs7QUFFRjtFQUNFLDBCQUEwQixFQUFFLE1BQU07RUFDbEMsYUFBYSxFQUFFLE1BQU07QUFDdkI7O0FBRUE7K0VBQytFOztBQUUvRTs7RUFFRTs7QUFFRjtFQUNFLGNBQWM7QUFDaEI7O0FBRUE7O0VBRUU7O0FBRUY7RUFDRSxrQkFBa0I7QUFDcEI7O0FBRUE7K0VBQytFOztBQUUvRTs7RUFFRTs7QUFFRjtFQUNFLGFBQWE7QUFDZjs7QUFFQTs7RUFFRTs7QUFFRjtFQUNFLGFBQWE7QUFDZiIsInNvdXJjZXNDb250ZW50IjpbIi8qISBub3JtYWxpemUuY3NzIHY4LjAuMSB8IE1JVCBMaWNlbnNlIHwgZ2l0aHViLmNvbS9uZWNvbGFzL25vcm1hbGl6ZS5jc3MgKi9cblxuLyogRG9jdW1lbnRcbiAgID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovXG5cbi8qKlxuICogMS4gQ29ycmVjdCB0aGUgbGluZSBoZWlnaHQgaW4gYWxsIGJyb3dzZXJzLlxuICogMi4gUHJldmVudCBhZGp1c3RtZW50cyBvZiBmb250IHNpemUgYWZ0ZXIgb3JpZW50YXRpb24gY2hhbmdlcyBpbiBpT1MuXG4gKi9cblxuaHRtbCB7XG4gIGxpbmUtaGVpZ2h0OiAxLjE1OyAvKiAxICovXG4gIC13ZWJraXQtdGV4dC1zaXplLWFkanVzdDogMTAwJTsgLyogMiAqL1xufVxuXG4vKiBTZWN0aW9uc1xuICAgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi9cblxuLyoqXG4gKiBSZW1vdmUgdGhlIG1hcmdpbiBpbiBhbGwgYnJvd3NlcnMuXG4gKi9cblxuYm9keSB7XG4gIG1hcmdpbjogMDtcbn1cblxuLyoqXG4gKiBSZW5kZXIgdGhlIGBtYWluYCBlbGVtZW50IGNvbnNpc3RlbnRseSBpbiBJRS5cbiAqL1xuXG5tYWluIHtcbiAgZGlzcGxheTogYmxvY2s7XG59XG5cbi8qKlxuICogQ29ycmVjdCB0aGUgZm9udCBzaXplIGFuZCBtYXJnaW4gb24gYGgxYCBlbGVtZW50cyB3aXRoaW4gYHNlY3Rpb25gIGFuZFxuICogYGFydGljbGVgIGNvbnRleHRzIGluIENocm9tZSwgRmlyZWZveCwgYW5kIFNhZmFyaS5cbiAqL1xuXG5oMSB7XG4gIGZvbnQtc2l6ZTogMmVtO1xuICBtYXJnaW46IDAuNjdlbSAwO1xufVxuXG4vKiBHcm91cGluZyBjb250ZW50XG4gICA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqL1xuXG4vKipcbiAqIDEuIEFkZCB0aGUgY29ycmVjdCBib3ggc2l6aW5nIGluIEZpcmVmb3guXG4gKiAyLiBTaG93IHRoZSBvdmVyZmxvdyBpbiBFZGdlIGFuZCBJRS5cbiAqL1xuXG5ociB7XG4gIGJveC1zaXppbmc6IGNvbnRlbnQtYm94OyAvKiAxICovXG4gIGhlaWdodDogMDsgLyogMSAqL1xuICBvdmVyZmxvdzogdmlzaWJsZTsgLyogMiAqL1xufVxuXG4vKipcbiAqIDEuIENvcnJlY3QgdGhlIGluaGVyaXRhbmNlIGFuZCBzY2FsaW5nIG9mIGZvbnQgc2l6ZSBpbiBhbGwgYnJvd3NlcnMuXG4gKiAyLiBDb3JyZWN0IHRoZSBvZGQgYGVtYCBmb250IHNpemluZyBpbiBhbGwgYnJvd3NlcnMuXG4gKi9cblxucHJlIHtcbiAgZm9udC1mYW1pbHk6IG1vbm9zcGFjZSwgbW9ub3NwYWNlOyAvKiAxICovXG4gIGZvbnQtc2l6ZTogMWVtOyAvKiAyICovXG59XG5cbi8qIFRleHQtbGV2ZWwgc2VtYW50aWNzXG4gICA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqL1xuXG4vKipcbiAqIFJlbW92ZSB0aGUgZ3JheSBiYWNrZ3JvdW5kIG9uIGFjdGl2ZSBsaW5rcyBpbiBJRSAxMC5cbiAqL1xuXG5hIHtcbiAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7XG59XG5cbi8qKlxuICogMS4gUmVtb3ZlIHRoZSBib3R0b20gYm9yZGVyIGluIENocm9tZSA1Ny1cbiAqIDIuIEFkZCB0aGUgY29ycmVjdCB0ZXh0IGRlY29yYXRpb24gaW4gQ2hyb21lLCBFZGdlLCBJRSwgT3BlcmEsIGFuZCBTYWZhcmkuXG4gKi9cblxuYWJiclt0aXRsZV0ge1xuICBib3JkZXItYm90dG9tOiBub25lOyAvKiAxICovXG4gIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lOyAvKiAyICovXG4gIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lIGRvdHRlZDsgLyogMiAqL1xufVxuXG4vKipcbiAqIEFkZCB0aGUgY29ycmVjdCBmb250IHdlaWdodCBpbiBDaHJvbWUsIEVkZ2UsIGFuZCBTYWZhcmkuXG4gKi9cblxuYixcbnN0cm9uZyB7XG4gIGZvbnQtd2VpZ2h0OiBib2xkZXI7XG59XG5cbi8qKlxuICogMS4gQ29ycmVjdCB0aGUgaW5oZXJpdGFuY2UgYW5kIHNjYWxpbmcgb2YgZm9udCBzaXplIGluIGFsbCBicm93c2Vycy5cbiAqIDIuIENvcnJlY3QgdGhlIG9kZCBgZW1gIGZvbnQgc2l6aW5nIGluIGFsbCBicm93c2Vycy5cbiAqL1xuXG5jb2RlLFxua2JkLFxuc2FtcCB7XG4gIGZvbnQtZmFtaWx5OiBtb25vc3BhY2UsIG1vbm9zcGFjZTsgLyogMSAqL1xuICBmb250LXNpemU6IDFlbTsgLyogMiAqL1xufVxuXG4vKipcbiAqIEFkZCB0aGUgY29ycmVjdCBmb250IHNpemUgaW4gYWxsIGJyb3dzZXJzLlxuICovXG5cbnNtYWxsIHtcbiAgZm9udC1zaXplOiA4MCU7XG59XG5cbi8qKlxuICogUHJldmVudCBgc3ViYCBhbmQgYHN1cGAgZWxlbWVudHMgZnJvbSBhZmZlY3RpbmcgdGhlIGxpbmUgaGVpZ2h0IGluXG4gKiBhbGwgYnJvd3NlcnMuXG4gKi9cblxuc3ViLFxuc3VwIHtcbiAgZm9udC1zaXplOiA3NSU7XG4gIGxpbmUtaGVpZ2h0OiAwO1xuICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gIHZlcnRpY2FsLWFsaWduOiBiYXNlbGluZTtcbn1cblxuc3ViIHtcbiAgYm90dG9tOiAtMC4yNWVtO1xufVxuXG5zdXAge1xuICB0b3A6IC0wLjVlbTtcbn1cblxuLyogRW1iZWRkZWQgY29udGVudFxuICAgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi9cblxuLyoqXG4gKiBSZW1vdmUgdGhlIGJvcmRlciBvbiBpbWFnZXMgaW5zaWRlIGxpbmtzIGluIElFIDEwLlxuICovXG5cbmltZyB7XG4gIGJvcmRlci1zdHlsZTogbm9uZTtcbn1cblxuLyogRm9ybXNcbiAgID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovXG5cbi8qKlxuICogMS4gQ2hhbmdlIHRoZSBmb250IHN0eWxlcyBpbiBhbGwgYnJvd3NlcnMuXG4gKiAyLiBSZW1vdmUgdGhlIG1hcmdpbiBpbiBGaXJlZm94IGFuZCBTYWZhcmkuXG4gKi9cblxuYnV0dG9uLFxuaW5wdXQsXG5vcHRncm91cCxcbnNlbGVjdCxcbnRleHRhcmVhIHtcbiAgZm9udC1mYW1pbHk6IGluaGVyaXQ7IC8qIDEgKi9cbiAgZm9udC1zaXplOiAxMDAlOyAvKiAxICovXG4gIGxpbmUtaGVpZ2h0OiAxLjE1OyAvKiAxICovXG4gIG1hcmdpbjogMDsgLyogMiAqL1xufVxuXG4vKipcbiAqIFNob3cgdGhlIG92ZXJmbG93IGluIElFLlxuICogMS4gU2hvdyB0aGUgb3ZlcmZsb3cgaW4gRWRnZS5cbiAqL1xuXG5idXR0b24sXG5pbnB1dCB7IC8qIDEgKi9cbiAgb3ZlcmZsb3c6IHZpc2libGU7XG59XG5cbi8qKlxuICogUmVtb3ZlIHRoZSBpbmhlcml0YW5jZSBvZiB0ZXh0IHRyYW5zZm9ybSBpbiBFZGdlLCBGaXJlZm94LCBhbmQgSUUuXG4gKiAxLiBSZW1vdmUgdGhlIGluaGVyaXRhbmNlIG9mIHRleHQgdHJhbnNmb3JtIGluIEZpcmVmb3guXG4gKi9cblxuYnV0dG9uLFxuc2VsZWN0IHsgLyogMSAqL1xuICB0ZXh0LXRyYW5zZm9ybTogbm9uZTtcbn1cblxuLyoqXG4gKiBDb3JyZWN0IHRoZSBpbmFiaWxpdHkgdG8gc3R5bGUgY2xpY2thYmxlIHR5cGVzIGluIGlPUyBhbmQgU2FmYXJpLlxuICovXG5cbmJ1dHRvbixcblt0eXBlPVwiYnV0dG9uXCJdLFxuW3R5cGU9XCJyZXNldFwiXSxcblt0eXBlPVwic3VibWl0XCJdIHtcbiAgLXdlYmtpdC1hcHBlYXJhbmNlOiBidXR0b247XG59XG5cbi8qKlxuICogUmVtb3ZlIHRoZSBpbm5lciBib3JkZXIgYW5kIHBhZGRpbmcgaW4gRmlyZWZveC5cbiAqL1xuXG5idXR0b246Oi1tb3otZm9jdXMtaW5uZXIsXG5bdHlwZT1cImJ1dHRvblwiXTo6LW1vei1mb2N1cy1pbm5lcixcblt0eXBlPVwicmVzZXRcIl06Oi1tb3otZm9jdXMtaW5uZXIsXG5bdHlwZT1cInN1Ym1pdFwiXTo6LW1vei1mb2N1cy1pbm5lciB7XG4gIGJvcmRlci1zdHlsZTogbm9uZTtcbiAgcGFkZGluZzogMDtcbn1cblxuLyoqXG4gKiBSZXN0b3JlIHRoZSBmb2N1cyBzdHlsZXMgdW5zZXQgYnkgdGhlIHByZXZpb3VzIHJ1bGUuXG4gKi9cblxuYnV0dG9uOi1tb3otZm9jdXNyaW5nLFxuW3R5cGU9XCJidXR0b25cIl06LW1vei1mb2N1c3JpbmcsXG5bdHlwZT1cInJlc2V0XCJdOi1tb3otZm9jdXNyaW5nLFxuW3R5cGU9XCJzdWJtaXRcIl06LW1vei1mb2N1c3Jpbmcge1xuICBvdXRsaW5lOiAxcHggZG90dGVkIEJ1dHRvblRleHQ7XG59XG5cbi8qKlxuICogQ29ycmVjdCB0aGUgcGFkZGluZyBpbiBGaXJlZm94LlxuICovXG5cbmZpZWxkc2V0IHtcbiAgcGFkZGluZzogMC4zNWVtIDAuNzVlbSAwLjYyNWVtO1xufVxuXG4vKipcbiAqIDEuIENvcnJlY3QgdGhlIHRleHQgd3JhcHBpbmcgaW4gRWRnZSBhbmQgSUUuXG4gKiAyLiBDb3JyZWN0IHRoZSBjb2xvciBpbmhlcml0YW5jZSBmcm9tIGBmaWVsZHNldGAgZWxlbWVudHMgaW4gSUUuXG4gKiAzLiBSZW1vdmUgdGhlIHBhZGRpbmcgc28gZGV2ZWxvcGVycyBhcmUgbm90IGNhdWdodCBvdXQgd2hlbiB0aGV5IHplcm8gb3V0XG4gKiAgICBgZmllbGRzZXRgIGVsZW1lbnRzIGluIGFsbCBicm93c2Vycy5cbiAqL1xuXG5sZWdlbmQge1xuICBib3gtc2l6aW5nOiBib3JkZXItYm94OyAvKiAxICovXG4gIGNvbG9yOiBpbmhlcml0OyAvKiAyICovXG4gIGRpc3BsYXk6IHRhYmxlOyAvKiAxICovXG4gIG1heC13aWR0aDogMTAwJTsgLyogMSAqL1xuICBwYWRkaW5nOiAwOyAvKiAzICovXG4gIHdoaXRlLXNwYWNlOiBub3JtYWw7IC8qIDEgKi9cbn1cblxuLyoqXG4gKiBBZGQgdGhlIGNvcnJlY3QgdmVydGljYWwgYWxpZ25tZW50IGluIENocm9tZSwgRmlyZWZveCwgYW5kIE9wZXJhLlxuICovXG5cbnByb2dyZXNzIHtcbiAgdmVydGljYWwtYWxpZ246IGJhc2VsaW5lO1xufVxuXG4vKipcbiAqIFJlbW92ZSB0aGUgZGVmYXVsdCB2ZXJ0aWNhbCBzY3JvbGxiYXIgaW4gSUUgMTArLlxuICovXG5cbnRleHRhcmVhIHtcbiAgb3ZlcmZsb3c6IGF1dG87XG59XG5cbi8qKlxuICogMS4gQWRkIHRoZSBjb3JyZWN0IGJveCBzaXppbmcgaW4gSUUgMTAuXG4gKiAyLiBSZW1vdmUgdGhlIHBhZGRpbmcgaW4gSUUgMTAuXG4gKi9cblxuW3R5cGU9XCJjaGVja2JveFwiXSxcblt0eXBlPVwicmFkaW9cIl0ge1xuICBib3gtc2l6aW5nOiBib3JkZXItYm94OyAvKiAxICovXG4gIHBhZGRpbmc6IDA7IC8qIDIgKi9cbn1cblxuLyoqXG4gKiBDb3JyZWN0IHRoZSBjdXJzb3Igc3R5bGUgb2YgaW5jcmVtZW50IGFuZCBkZWNyZW1lbnQgYnV0dG9ucyBpbiBDaHJvbWUuXG4gKi9cblxuW3R5cGU9XCJudW1iZXJcIl06Oi13ZWJraXQtaW5uZXItc3Bpbi1idXR0b24sXG5bdHlwZT1cIm51bWJlclwiXTo6LXdlYmtpdC1vdXRlci1zcGluLWJ1dHRvbiB7XG4gIGhlaWdodDogYXV0bztcbn1cblxuLyoqXG4gKiAxLiBDb3JyZWN0IHRoZSBvZGQgYXBwZWFyYW5jZSBpbiBDaHJvbWUgYW5kIFNhZmFyaS5cbiAqIDIuIENvcnJlY3QgdGhlIG91dGxpbmUgc3R5bGUgaW4gU2FmYXJpLlxuICovXG5cblt0eXBlPVwic2VhcmNoXCJdIHtcbiAgLXdlYmtpdC1hcHBlYXJhbmNlOiB0ZXh0ZmllbGQ7IC8qIDEgKi9cbiAgb3V0bGluZS1vZmZzZXQ6IC0ycHg7IC8qIDIgKi9cbn1cblxuLyoqXG4gKiBSZW1vdmUgdGhlIGlubmVyIHBhZGRpbmcgaW4gQ2hyb21lIGFuZCBTYWZhcmkgb24gbWFjT1MuXG4gKi9cblxuW3R5cGU9XCJzZWFyY2hcIl06Oi13ZWJraXQtc2VhcmNoLWRlY29yYXRpb24ge1xuICAtd2Via2l0LWFwcGVhcmFuY2U6IG5vbmU7XG59XG5cbi8qKlxuICogMS4gQ29ycmVjdCB0aGUgaW5hYmlsaXR5IHRvIHN0eWxlIGNsaWNrYWJsZSB0eXBlcyBpbiBpT1MgYW5kIFNhZmFyaS5cbiAqIDIuIENoYW5nZSBmb250IHByb3BlcnRpZXMgdG8gYGluaGVyaXRgIGluIFNhZmFyaS5cbiAqL1xuXG46Oi13ZWJraXQtZmlsZS11cGxvYWQtYnV0dG9uIHtcbiAgLXdlYmtpdC1hcHBlYXJhbmNlOiBidXR0b247IC8qIDEgKi9cbiAgZm9udDogaW5oZXJpdDsgLyogMiAqL1xufVxuXG4vKiBJbnRlcmFjdGl2ZVxuICAgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi9cblxuLypcbiAqIEFkZCB0aGUgY29ycmVjdCBkaXNwbGF5IGluIEVkZ2UsIElFIDEwKywgYW5kIEZpcmVmb3guXG4gKi9cblxuZGV0YWlscyB7XG4gIGRpc3BsYXk6IGJsb2NrO1xufVxuXG4vKlxuICogQWRkIHRoZSBjb3JyZWN0IGRpc3BsYXkgaW4gYWxsIGJyb3dzZXJzLlxuICovXG5cbnN1bW1hcnkge1xuICBkaXNwbGF5OiBsaXN0LWl0ZW07XG59XG5cbi8qIE1pc2NcbiAgID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovXG5cbi8qKlxuICogQWRkIHRoZSBjb3JyZWN0IGRpc3BsYXkgaW4gSUUgMTArLlxuICovXG5cbnRlbXBsYXRlIHtcbiAgZGlzcGxheTogbm9uZTtcbn1cblxuLyoqXG4gKiBBZGQgdGhlIGNvcnJlY3QgZGlzcGxheSBpbiBJRSAxMC5cbiAqL1xuXG5baGlkZGVuXSB7XG4gIGRpc3BsYXk6IG5vbmU7XG59XG4iXSwic291cmNlUm9vdCI6IiJ9 */</style><style>/**
+ * @license
+ * Copyright 2016 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+.shaka-video-container{position:relative;top:0;left:0;display:flex}.shaka-video-container .material-icons{font-family:'Material Icons'}.shaka-video-container *{font-family:Roboto-Regular,Roboto,sans-serif}.shaka-video-container:fullscreen{width:100%;height:100%;background-color:#000}.shaka-video-container:fullscreen .shaka-text-container{font-size:4.4vmin}.shaka-video-container:-webkit-full-screen{width:100%;height:100%;background-color:#000}.shaka-video-container:-webkit-full-screen .shaka-text-container{font-size:4.4vmin}.shaka-video-container:-moz-full-screen{width:100%;height:100%;background-color:#000}.shaka-video-container:-moz-full-screen .shaka-text-container{font-size:4.4vmin}.shaka-video-container:-ms-fullscreen{width:100%;height:100%;background-color:#000}.shaka-video-container:-ms-fullscreen .shaka-text-container{font-size:4.4vmin}.shaka-controls-container{position:absolute;top:0;left:0;right:0;bottom:0;margin:0;padding:0;width:100%;height:100%;box-sizing:border-box;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;background:linear-gradient(to top,#000 0,rgba(0,0,0,0) 92px);opacity:0;transition:opacity cubic-bezier(.4,0,.6,1) .6s;z-index:1}.shaka-controls-container *{flex-shrink:0}.shaka-controls-container[shown=true]{opacity:1}.shaka-controls-container[casting=true]{opacity:1}.shaka-controls-container[casting=true] .shaka-fullscreen-button{display:none}.shaka-bottom-controls{width:98%;padding:0;padding-left:2%;padding-bottom:2.5%;z-index:1}.shaka-controls-button-panel{width:98.5%;padding:0;margin:0;display:flex;flex-direction:row;justify-content:flex-end;align-items:center;overflow:hidden;min-width:48px;font-size:12px;font-weight:400;font-style:normal;user-select:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none}.shaka-controls-button-panel>*{color:#fff;height:32px;margin:1px 6px;padding:0;background:0 0;border:0;cursor:pointer}.shaka-play-button-container{margin:0;width:100%;height:100%;flex-shrink:1;position:absolute;left:0;right:0;top:0;bottom:0;display:flex;justify-content:center;align-items:center}.shaka-text-container{position:absolute;left:0;right:0;top:0;bottom:0;bottom:15%;width:100%;min-width:48px;text-align:center;display:flex;justify-content:center;align-items:flex-end;overflow:hidden;font-size:20px;line-height:1.4}.shaka-text-container span{background-color:rgba(0,0,0,.8);color:#fff;display:block;max-width:95%}.shaka-spinner-container{position:absolute;left:0;right:0;top:0;bottom:0;width:100%;height:100%;flex-shrink:1;display:flex;justify-content:center;align-items:center}.shaka-spinner{position:relative;top:0;left:0;margin:0;box-sizing:border-box;padding:7.8%;width:0;height:0}.shaka-play-button{box-sizing:border-box;padding:7.5%;width:0;height:0;margin:0;border-radius:50%;box-shadow:rgba(0,0,0,.1) 0 0 20px 0;border:none;background-size:50%;background-repeat:no-repeat;background-position:center center;background-color:rgba(255,255,255,.9)}.shaka-play-button[icon=play]{background-image:url(data:image/svg+xml,%3Csvg%20fill%3D%22%23000000%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20width%3D%2224%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M8%205v14l11-7z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22%2F%3E%0A%3C%2Fsvg%3E)}.shaka-play-button[icon=pause]{background-image:url(data:image/svg+xml,%3Csvg%20fill%3D%22%23000000%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20width%3D%2224%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M6%2019h4V5H6v14zm8-14v14h4V5h-4z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22%2F%3E%0A%3C%2Fsvg%3E)}.shaka-current-time{font-size:14px;color:#fff;height:auto;cursor:pointer}.shaka-current-time[disabled]{background-color:transparent;color:#fff;cursor:default}.shaka-controls-container button:focus,.shaka-controls-container input:focus{outline:1px solid Highlight;outline:1px solid -webkit-focus-ring-color}.shaka-controls-container button:-moz-focus-inner,.shaka-controls-container input:-moz-focus-outer{outline:0;border:0}.shaka-controls-container:not(.shaka-keyboard-navigation) button:focus,.shaka-controls-container:not(.shaka-keyboard-navigation) input:focus{outline:0;border:0}.shaka-mobile .shaka-volume-bar-container{display:none}.shaka-range-container{position:relative;top:0;left:0;margin:4px 6px;height:4px;border-radius:4px;background:#fff}.shaka-volume-bar-container{width:100px}@media screen and (max-width:550px){.shaka-volume-bar-container{display:none}}.shaka-seek-bar-container{width:96.5%}.shaka-range-element{-webkit-appearance:none;background:0 0;position:absolute;top:0;left:0;right:0;bottom:0;margin:0;padding:0;width:100%;height:100%;height:12px;top:-4px;z-index:1}.shaka-range-element::-webkit-slider-runnable-track{width:100%;height:12px;background:0 0;color:transparent;border:none}.shaka-range-element::-webkit-slider-thumb{-webkit-appearance:none;border:none;border-radius:12px;height:12px;width:12px;background:#fff}.shaka-range-element::-moz-range-track{width:100%;height:12px;background:0 0;color:transparent;border:none}.shaka-range-element::-moz-range-thumb{-webkit-appearance:none;border:none;border-radius:12px;height:12px;width:12px;background:#fff}.shaka-range-element::-ms-track{width:100%;height:12px;background:0 0;color:transparent;border:none}.shaka-range-element::-ms-thumb{-webkit-appearance:none;border:none;border-radius:12px;height:12px;width:12px;background:#fff}.shaka-range-element::-ms-tooltip{display:none}.shaka-range-element::-ms-fill-lower{display:none}.shaka-range-element::-ms-fill-upper{display:none}.shaka-spinner-svg{position:absolute;top:0;left:0;right:0;bottom:0;animation:rotate 2s linear infinite;transform-origin:center center;width:100%;height:100%;margin:0;padding:0}.shaka-spinner-path{stroke:#202124;stroke-dasharray:20,200;stroke-dashoffset:0;animation:dash 1.5s ease-in-out infinite;stroke-linecap:round}@keyframes rotate{100%{transform:rotate(360deg)}}@keyframes dash{0%{stroke-dasharray:1,200;stroke-dashoffset:0}50%{stroke-dasharray:89,200;stroke-dashoffset:-35px}100%{stroke-dasharray:89,200;stroke-dashoffset:-124px}}.shaka-spacer{cursor:default;flex-shrink:1;flex-grow:1;margin:0}.shaka-settings-menu{overflow-x:hidden;overflow-y:auto;white-space:nowrap;background:#fff;box-shadow:0 1px 9px 0 rgba(0,0,0,.4);border-radius:2px;max-height:250px;min-width:180px;display:none;flex-direction:column;position:absolute;z-index:2;right:15px;bottom:30px}.shaka-settings-menu button{font-size:14px;background:0 0;color:#000;border:none;min-height:30px;padding:3.5px 6px;display:flex;align-items:center}.shaka-settings-menu button:hover{background:#e0e0e0}.shaka-keyboard-navigation .shaka-settings-menu button:focus{background:#e0e0e0}.shaka-settings-menu i{padding-left:10px}.shaka-settings-menu.shaka-low-position{bottom:15px}.shaka-overflow-menu span{text-align:left;position:relative;left:13px}.shaka-overflow-button-label{position:relative;display:flex;flex-direction:column}.shaka-current-selection-span{color:rgba(0,0,0,.54)}.shaka-audio-languages span,.shaka-resolutions span,.shaka-text-languages span{margin-left:54px}.shaka-back-to-overflow-button span{margin-left:0}.shaka-back-to-overflow-button i{padding-right:20px}.shaka-auto-span{left:17px}.shaka-captions-on{color:#000}.shaka-captions-off{color:grey}@font-face{font-family:Roboto;font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype')}@font-face{font-family:'Material Icons';font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf) format('truetype')}.material-icons{font-family:'Material Icons';font-weight:400;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr}.shaka-cast-receiver-name{display:none;background-color:rgba(0,0,0,.5);color:#fff;font-size:150%;padding:5px;bottom:50px;left:0;right:0;margin:auto;width:max-content}.shaka-cast-connected-button{display:none}.shaka-hidden,button.shaka-hidden{display:none}.shaka-displayed,button.shaka-displayed{display:flex}/*# sourceMappingURL=controls.css.map */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uLy4uL25vZGVfbW9kdWxlcy9zaGFrYS1wbGF5ZXIvdWkvbGVzcy9jb250YWluZXJzLmxlc3MiLCJ3ZWJwYWNrOi8vLi8uLi9ub2RlX21vZHVsZXMvc2hha2EtcGxheWVyL2Rpc3QvY29udHJvbHMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQXVCQTs7Ozs7Ozs7Ozs7Ozs7O0VDUkU7QUFDRix1QkFBdUIsaUJBQWlCLENBQUMsS0FBSyxDQUFDLE1BQU0sQ0FBQyxZQUFZLENBQUMsdUNBQXVDLDRCQUE0QixDQUFDLHlCQUF5Qiw0Q0FBNEMsQ0FBQyxrQ0FBa0MsVUFBVSxDQUFDLFdBQVcsQ0FBQyxxQkFBcUIsQ0FBQyx3REFBd0QsaUJBQWlCLENBQUMsMkNBQTJDLFVBQVUsQ0FBQyxXQUFXLENBQUMscUJBQXFCLENBQUMsaUVBQWlFLGlCQUFpQixDQUFDLHdDQUF3QyxVQUFVLENBQUMsV0FBVyxDQUFDLHFCQUFxQixDQUFDLDhEQUE4RCxpQkFBaUIsQ0FBQyxzQ0FBc0MsVUFBVSxDQUFDLFdBQVcsQ0FBQyxxQkFBcUIsQ0FBQyw0REFBNEQsaUJBQWlCLENBQUMsMEJBQTBCLGlCQUFpQixDQUFDLEtBQUssQ0FBQyxNQUFNLENBQUMsT0FBTyxDQUFDLFFBQVEsQ0FBQyxRQUFRLENBQUMsU0FBUyxDQUFDLFVBQVUsQ0FBQyxXQUFXLENBQUMscUJBQXFCLENBQUMsWUFBWSxDQUFDLHFCQUFxQixDQUFDLHdCQUF3QixDQUFDLGtCQUFrQixDQUFDLDREQUE0RCxDQUFDLFNBQVMsQ0FBQyw4Q0FBOEMsQ0FBQyxTQUFTLENBQUMsNEJBQTRCLGFBQWEsQ0FBQyxzQ0FBc0MsU0FBUyxDQUFDLHdDQUF3QyxTQUFTLENBQUMsaUVBQWlFLFlBQVksQ0FBQyx1QkFBdUIsU0FBUyxDQUFDLFNBQVMsQ0FBQyxlQUFlLENBQUMsbUJBQW1CLENBQUMsU0FBUyxDQUFDLDZCQUE2QixXQUFXLENBQUMsU0FBUyxDQUFDLFFBQVEsQ0FBQyxZQUFZLENBQUMsa0JBQWtCLENBQUMsd0JBQXdCLENBQUMsa0JBQWtCLENBQUMsZUFBZSxDQUFDLGNBQWMsQ0FBQyxjQUFjLENBQUMsZUFBZSxDQUFDLGlCQUFpQixDQUFDLGdCQUFnQixDQUFDLHdCQUF3QixDQUFDLHFCQUFxQixDQUFDLG9CQUFvQixDQUFDLCtCQUErQixVQUFVLENBQUMsV0FBVyxDQUFDLGNBQWMsQ0FBQyxTQUFTLENBQUMsY0FBYyxDQUFDLFFBQVEsQ0FBQyxjQUFjLENBQUMsNkJBQTZCLFFBQVEsQ0FBQyxVQUFVLENBQUMsV0FBVyxDQUFDLGFBQWEsQ0FBQyxpQkFBaUIsQ0FBQyxNQUFNLENBQUMsT0FBTyxDQUFDLEtBQUssQ0FBQyxRQUFRLENBQUMsWUFBWSxDQUFDLHNCQUFzQixDQUFDLGtCQUFrQixDQUFDLHNCQUFzQixpQkFBaUIsQ0FBQyxNQUFNLENBQUMsT0FBTyxDQUFDLEtBQUssQ0FBQyxRQUFRLENBQUMsVUFBVSxDQUFDLFVBQVUsQ0FBQyxjQUFjLENBQUMsaUJBQWlCLENBQUMsWUFBWSxDQUFDLHNCQUFzQixDQUFDLG9CQUFvQixDQUFDLGVBQWUsQ0FBQyxjQUFjLENBQUMsZUFBZSxDQUFDLDJCQUEyQiwrQkFBK0IsQ0FBQyxVQUFVLENBQUMsYUFBYSxDQUFDLGFBQWEsQ0FBQyx5QkFBeUIsaUJBQWlCLENBQUMsTUFBTSxDQUFDLE9BQU8sQ0FBQyxLQUFLLENBQUMsUUFBUSxDQUFDLFVBQVUsQ0FBQyxXQUFXLENBQUMsYUFBYSxDQUFDLFlBQVksQ0FBQyxzQkFBc0IsQ0FBQyxrQkFBa0IsQ0FBQyxlQUFlLGlCQUFpQixDQUFDLEtBQUssQ0FBQyxNQUFNLENBQUMsUUFBUSxDQUFDLHFCQUFxQixDQUFDLFlBQVksQ0FBQyxPQUFPLENBQUMsUUFBUSxDQUFDLG1CQUFtQixxQkFBcUIsQ0FBQyxZQUFZLENBQUMsT0FBTyxDQUFDLFFBQVEsQ0FBQyxRQUFRLENBQUMsaUJBQWlCLENBQUMsb0NBQW9DLENBQUMsV0FBVyxDQUFDLG1CQUFtQixDQUFDLDJCQUEyQixDQUFDLGlDQUFpQyxDQUFDLHFDQUFxQyxDQUFDLDhCQUE4Qiw0VkFBNFYsQ0FBQywrQkFBK0IsOFdBQThXLENBQUMsb0JBQW9CLGNBQWMsQ0FBQyxVQUFVLENBQUMsV0FBVyxDQUFDLGNBQWMsQ0FBQyw4QkFBOEIsNEJBQTRCLENBQUMsVUFBVSxDQUFDLGNBQWMsQ0FBQyw2RUFBNkUsMkJBQTJCLENBQUMsMENBQTBDLENBQUMsbUdBQW1HLFNBQVMsQ0FBQyxRQUFRLENBQUMsNklBQTZJLFNBQVMsQ0FBQyxRQUFRLENBQUMsMENBQTBDLFlBQVksQ0FBQyx1QkFBdUIsaUJBQWlCLENBQUMsS0FBSyxDQUFDLE1BQU0sQ0FBQyxjQUFjLENBQUMsVUFBVSxDQUFDLGlCQUFpQixDQUFDLGVBQWUsQ0FBQyw0QkFBNEIsV0FBVyxDQUFDLG9DQUFvQyw0QkFBNEIsWUFBWSxDQUFDLENBQUMsMEJBQTBCLFdBQVcsQ0FBQyxxQkFBcUIsdUJBQXVCLENBQUMsY0FBYyxDQUFDLGlCQUFpQixDQUFDLEtBQUssQ0FBQyxNQUFNLENBQUMsT0FBTyxDQUFDLFFBQVEsQ0FBQyxRQUFRLENBQUMsU0FBUyxDQUFDLFVBQVUsQ0FBQyxXQUFXLENBQUMsV0FBVyxDQUFDLFFBQVEsQ0FBQyxTQUFTLENBQUMsb0RBQW9ELFVBQVUsQ0FBQyxXQUFXLENBQUMsY0FBYyxDQUFDLGlCQUFpQixDQUFDLFdBQVcsQ0FBQywyQ0FBMkMsdUJBQXVCLENBQUMsV0FBVyxDQUFDLGtCQUFrQixDQUFDLFdBQVcsQ0FBQyxVQUFVLENBQUMsZUFBZSxDQUFDLHVDQUF1QyxVQUFVLENBQUMsV0FBVyxDQUFDLGNBQWMsQ0FBQyxpQkFBaUIsQ0FBQyxXQUFXLENBQUMsdUNBQXVDLHVCQUF1QixDQUFDLFdBQVcsQ0FBQyxrQkFBa0IsQ0FBQyxXQUFXLENBQUMsVUFBVSxDQUFDLGVBQWUsQ0FBQyxnQ0FBZ0MsVUFBVSxDQUFDLFdBQVcsQ0FBQyxjQUFjLENBQUMsaUJBQWlCLENBQUMsV0FBVyxDQUFDLGdDQUFnQyx1QkFBdUIsQ0FBQyxXQUFXLENBQUMsa0JBQWtCLENBQUMsV0FBVyxDQUFDLFVBQVUsQ0FBQyxlQUFlLENBQUMsa0NBQWtDLFlBQVksQ0FBQyxxQ0FBcUMsWUFBWSxDQUFDLHFDQUFxQyxZQUFZLENBQUMsbUJBQW1CLGlCQUFpQixDQUFDLEtBQUssQ0FBQyxNQUFNLENBQUMsT0FBTyxDQUFDLFFBQVEsQ0FBQyxtQ0FBbUMsQ0FBQyw4QkFBOEIsQ0FBQyxVQUFVLENBQUMsV0FBVyxDQUFDLFFBQVEsQ0FBQyxTQUFTLENBQUMsb0JBQW9CLGNBQWMsQ0FBQyx1QkFBdUIsQ0FBQyxtQkFBbUIsQ0FBQyx3Q0FBd0MsQ0FBQyxvQkFBb0IsQ0FBQyxrQkFBa0IsS0FBSyx3QkFBd0IsQ0FBQyxDQUFDLGdCQUFnQixHQUFHLHNCQUFzQixDQUFDLG1CQUFtQixDQUFDLElBQUksdUJBQXVCLENBQUMsdUJBQXVCLENBQUMsS0FBSyx1QkFBdUIsQ0FBQyx3QkFBd0IsQ0FBQyxDQUFDLGNBQWMsY0FBYyxDQUFDLGFBQWEsQ0FBQyxXQUFXLENBQUMsUUFBUSxDQUFDLHFCQUFxQixpQkFBaUIsQ0FBQyxlQUFlLENBQUMsa0JBQWtCLENBQUMsZUFBZSxDQUFDLHFDQUFxQyxDQUFDLGlCQUFpQixDQUFDLGdCQUFnQixDQUFDLGVBQWUsQ0FBQyxZQUFZLENBQUMscUJBQXFCLENBQUMsaUJBQWlCLENBQUMsU0FBUyxDQUFDLFVBQVUsQ0FBQyxXQUFXLENBQUMsNEJBQTRCLGNBQWMsQ0FBQyxjQUFjLENBQUMsVUFBVSxDQUFDLFdBQVcsQ0FBQyxlQUFlLENBQUMsaUJBQWlCLENBQUMsWUFBWSxDQUFDLGtCQUFrQixDQUFDLGtDQUFrQyxrQkFBa0IsQ0FBQyw2REFBNkQsa0JBQWtCLENBQUMsdUJBQXVCLGlCQUFpQixDQUFDLHdDQUF3QyxXQUFXLENBQUMsMEJBQTBCLGVBQWUsQ0FBQyxpQkFBaUIsQ0FBQyxTQUFTLENBQUMsNkJBQTZCLGlCQUFpQixDQUFDLFlBQVksQ0FBQyxxQkFBcUIsQ0FBQyw4QkFBOEIscUJBQXFCLENBQUMsK0VBQStFLGdCQUFnQixDQUFDLG9DQUFvQyxhQUFhLENBQUMsaUNBQWlDLGtCQUFrQixDQUFDLGlCQUFpQixTQUFTLENBQUMsbUJBQW1CLFVBQVUsQ0FBQyxvQkFBb0IsVUFBVSxDQUFDLFdBQVcsa0JBQWtCLENBQUMsaUJBQWlCLENBQUMsZUFBZSxDQUFDLG1JQUFtSSxDQUFDLFdBQVcsNEJBQTRCLENBQUMsaUJBQWlCLENBQUMsZUFBZSxDQUFDLDBHQUEwRyxDQUFDLGdCQUFnQiw0QkFBNEIsQ0FBQyxlQUFlLENBQUMsaUJBQWlCLENBQUMsY0FBYyxDQUFDLGFBQWEsQ0FBQyxxQkFBcUIsQ0FBQyxtQkFBbUIsQ0FBQyxvQkFBb0IsQ0FBQyxrQkFBa0IsQ0FBQyxnQkFBZ0IsQ0FBQyxhQUFhLENBQUMsMEJBQTBCLFlBQVksQ0FBQywrQkFBK0IsQ0FBQyxVQUFVLENBQUMsY0FBYyxDQUFDLFdBQVcsQ0FBQyxXQUFXLENBQUMsTUFBTSxDQUFDLE9BQU8sQ0FBQyxXQUFXLENBQUMsaUJBQWlCLENBQUMsNkJBQTZCLFlBQVksQ0FBQyxrQ0FBa0MsWUFBWSxDQUFDLHdDQUF3QyxZQUFZLENBQUMsdUNBQXVDIiwic291cmNlUm9vdCI6IiJ9 */</style><script charset="utf-8" src="https://cdn2.skillacademy.com/assets/f1af4571a4/6.517d8616fa2105fd18c2.js"></script><script charset="utf-8" src="https://cdn2.skillacademy.com/assets/f1af4571a4/26.517d8616fa2105fd18c2.js"></script><link href="https://skillacademy.com/search?keyword=marketing" rel="canonical" data-react-helmet="true"><link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" rel="stylesheet" type="text/css" data-react-helmet="true"><link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" rel="stylesheet" type="text/css" data-react-helmet="true"><meta content="PT Ruang Raya Indonesia" name="publisher" data-react-helmet="true"><meta content="https://skillacademy.com/search?keyword=marketing" property="og:url" data-react-helmet="true"><meta content="summary_large_image" name="twitter:card" data-react-helmet="true"><meta content="Skill Academy" property="og:site_name" data-react-helmet="true"><meta content="article" property="og:type" data-react-helmet="true"><style data-emotion="css"></style></head>
+
+<body>
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5SBK6R"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+  <div id="root"><div class="css-3a2mnm"><div class="css-bu0fqy"><div style="box-sizing: border-box; position: relative; margin-left: auto; margin-right: auto; padding-left: 15px; padding-right: 15px; max-width: 1199px;"><div style="margin-left: -15px; margin-right: -15px; display: flex; flex-wrap: wrap; flex-grow: 0; flex-shrink: 0; align-items: center; justify-content: flex-start;"><a class="css-rwj60y" href="/" target="_self"><div class="css-1nt4eoa"><img alt="Skill Academy Logo" src="https://cdn2.skillacademy.com/assets/f1af4571a4/SkillAcademyLogo.078db88b6699c842664dff11cb3d7172.png" height="38" width="101" loading="lazy"></div></a><div class="css-1tc80em"><a class="css-du0m5l" href="https://enterprise.skillacademy.com/" target="_self" data-testid="header-enterprise-skillacademy-button"><p class="css-vs99p1">For Enterprise</p></a><a class="css-19jwtt2" href="/prakerja" target="_self"><p class="css-1mdziqv">KELAS PRAKERJA</p></a></div><div class="css-1rmhad2"><div class="css-1von155"><div class="css-18stsh5"><div class="css-la1mwz" data-testid="dropdown-category"><p class="css-1yq8dz3">Kategori</p><div class="css-fnnbas"><img alt="Chevron Down White" src="https://cdn2.skillacademy.com/assets/f1af4571a4/Chevron_Down_White.f71a01e5b85207b7c806eebf97bfc5e1.svg" loading="lazy"></div></div></div></div></div><div class="css-tbcb7k"><div class="css-o1q31"><div class="css-1o8uzu8"><div class="css-1rmhad2"><input type="text" placeholder="Kamu ingin menguasai skill apa hari ini?" autocomplete="false" class="css-1j8fjmh" data-testid="search-input-field" value="marketing"></div></div><div class="css-13ksas7" data-testid="search-icon"><img alt="Search Black" src="https://cdn2.skillacademy.com/assets/f1af4571a4/Search_Black.51c01179d658a3e2741e8c88a73ba7af.svg" loading="lazy"></div></div></div><a class="css-xfwu4n" href="/referral/detail?scrollTo=&amp;activeTab=" target="_self"><p class="css-1sxoywo">Tambah Uang Saku</p></a><div class="css-18stsh5" data-testid="header-login-button"><div class="css-1yajx7p"><p class="css-17rn0qt">DAFTAR/MASUK</p></div></div></div><span style="display: table; clear: both;"></span></div></div><div class="css-1f9vorr" id="main-scrollview"><div class="css-1g0qhyn"><div class="css-130ec4t"><div style="box-sizing: border-box; position: relative; margin-left: auto; margin-right: auto; padding: 2rem 15px 1.2rem; margin-bottom: 2.4rem; max-width: 1199px;"><p class="css-d7vjwx"><span class="css-9muh5h" data-testid="total-result">27</span><span class="css-j8mf7q"> Hasil untuk </span><span class="css-9muh5h" data-testid="current-keyword">marketing</span></p><div class="css-1iel6vg"><div style="box-sizing: border-box; min-height: 1px; position: relative; padding-left: 0px; padding-right: 0px; flex: 0 0 66.6667%; max-width: 66.6667%; margin-left: 0%; right: auto; left: auto;"><div class="css-cennm4"><p class="css-1bxpbcd">Filter</p><div class="css-4q0xk0"><div class="css-jkne81" data-testid="dropdown-container"><div class="css-1q74xkv css-2b097c-container"><div class=" css-1ce2tg8-control"><div class=" css-1hwfws3"><div class=" css-1wa3eu0-placeholder">Harga</div><div class="css-f3idvt"><div class="" style="display: inline-block;"><input autocapitalize="none" autocomplete="off" autocorrect="off" id="react-select-2-input" spellcheck="false" tabindex="0" type="text" aria-autocomplete="list" value="" style="box-sizing: content-box; width: 2px; background: 0px center; border: 0px; font-size: inherit; opacity: 1; outline: 0px; padding: 0px; color: inherit;"><div style="position: absolute; top: 0px; left: 0px; visibility: hidden; height: 0px; overflow: scroll; white-space: pre; font-size: 14px; font-family: &quot;Source Sans Pro&quot;, Helvetica; font-weight: 400; font-style: normal; letter-spacing: normal; text-transform: none;"></div></div></div></div><div class=" css-1wy0on6"><span class=" css-43ykx9-indicatorSeparator"></span><div aria-hidden="true" class=" css-onq1ur-indicatorContainer"><svg height="20" width="20" viewBox="0 0 20 20" aria-hidden="true" focusable="false" class="css-19bqh2r"><path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z"></path></svg></div></div></div></div></div><div class="css-jkne81" data-testid="dropdown-container"><div class="css-1q74xkv css-2b097c-container"><div class=" css-1ce2tg8-control"><div class=" css-1hwfws3"><div class=" css-1wa3eu0-placeholder">Durasi</div><div class="css-f3idvt"><div class="" style="display: inline-block;"><input autocapitalize="none" autocomplete="off" autocorrect="off" id="react-select-3-input" spellcheck="false" tabindex="0" type="text" aria-autocomplete="list" value="" style="box-sizing: content-box; width: 2px; background: 0px center; border: 0px; font-size: inherit; opacity: 1; outline: 0px; padding: 0px; color: inherit;"><div style="position: absolute; top: 0px; left: 0px; visibility: hidden; height: 0px; overflow: scroll; white-space: pre; font-size: 14px; font-family: &quot;Source Sans Pro&quot;, Helvetica; font-weight: 400; font-style: normal; letter-spacing: normal; text-transform: none;"></div></div></div></div><div class=" css-1wy0on6"><span class=" css-43ykx9-indicatorSeparator"></span><div aria-hidden="true" class=" css-onq1ur-indicatorContainer"><svg height="20" width="20" viewBox="0 0 20 20" aria-hidden="true" focusable="false" class="css-19bqh2r"><path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z"></path></svg></div></div></div></div></div></div></div></div><div style="box-sizing: border-box; min-height: 1px; position: relative; padding-left: 0px; padding-right: 0px; flex: 0 0 33.3333%; max-width: 33.3333%; margin-left: 0%; right: auto; left: auto;"><div class="css-7q4428"><p class="css-1bxpbcd">Urutkan</p><div class="css-4q0xk0"><div class="css-1ynikjc" data-testid="dropdown-container"><div class="css-1q74xkv css-2b097c-container"><div class=" css-1ce2tg8-control"><div class=" css-1hwfws3"><div class=" css-1wa3eu0-placeholder">Pilih</div><div class="css-f3idvt"><div class="" style="display: inline-block;"><input autocapitalize="none" autocomplete="off" autocorrect="off" id="react-select-4-input" spellcheck="false" tabindex="0" type="text" aria-autocomplete="list" value="" style="box-sizing: content-box; width: 2px; background: 0px center; border: 0px; font-size: inherit; opacity: 1; outline: 0px; padding: 0px; color: inherit;"><div style="position: absolute; top: 0px; left: 0px; visibility: hidden; height: 0px; overflow: scroll; white-space: pre; font-size: 14px; font-family: &quot;Source Sans Pro&quot;, Helvetica; font-weight: 400; font-style: normal; letter-spacing: normal; text-transform: none;"></div></div></div></div><div class=" css-1wy0on6"><span class=" css-43ykx9-indicatorSeparator"></span><div aria-hidden="true" class=" css-onq1ur-indicatorContainer"><svg height="20" width="20" viewBox="0 0 20 20" aria-hidden="true" focusable="false" class="css-19bqh2r"><path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z"></path></svg></div></div></div></div></div></div></div></div></div><span style="display: table; clear: both;"></span></div></div><div style="box-sizing: border-box; position: relative; margin-left: auto; margin-right: auto; padding-left: 15px; padding-right: 15px; max-width: 1199px;"><div class="css-1k6pjn0"><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/strategi-konten-marketing-untuk-aplikasi-mobile/COURSE-95YOY783?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-8e62kq" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Strategi Konten Marketing untuk Aplikasi Mobile</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_lt3f2l_7494.jpg?convert=webp" alt="Himawan Pradipta" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Himawan Pradipta</h2><p class="css-209ryh" data-testid="instructor-description">-Content Strategist &amp; UX Writer</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Detail Kelas</strong></u></div>
+<div>Konten <b>marketing</b> dalam aplikasi <em>mobile </em>menjadi hal yang perlu diperhatikan untuk membuat nyaman pengguna. Di kelas ini kamu akan mempelajari cara menulis konten yang sesuai dan efektif untuk aplikasi mobile, mulai dari menentukan target audiens, menentukan tujuan konten yang sesuai target audiens, dan menerapkan prinsip-prinsip penulisan UX dalam konten yang ditulis. Kamu juga akan mempelajari prinsip <em>lean writing </em>untuk menghasilkan tulisan yang efektif. Kelas ini bisa kamu selesaikan selama satu minggu jika kamu menyediakan waktu 30 menit/hari.&nbsp;</div>
+<div><br></div>
+<div><u><strong>Target Peserta</strong></u></div>
+<div>Kelas ini cocok untuk <em>content writer</em> atau <em>copywriter</em> &nbsp;yang sedang membuat strategi konten <em><b>marketing</b></em>, lulusan baru, atau umum yang tertarik untuk mempelajari konten <em><b>marketing</b> </em>untuk aplikasi mobile.&nbsp;</div>
+<div><br></div>
+<div><u><strong>Tujuan Umum</strong></u></div>
+<div>Kamu akan mampu membuat strategi konten <em><b>marketing</b> </em>untuk aplikasi <em>mobile </em>sesuai dengan prinsip-prinsip penulisan konten digital. &nbsp;<br>
+&nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-1uhwdcy"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.8</span><span class="css-1u7e0s0" data-testid="rating-count">(178 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">72%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 890.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 250.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/buat-video-marketing-bagus-hanya-dengan-hp/COURSE-G67S43AH?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-r2spls" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Buat Video Marketing Bagus Hanya Dengan HP</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_uji1wy_6505.jpg?convert=webp" alt="Handika Widiarto" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Handika Widiarto</h2><p class="css-209ryh" data-testid="instructor-description">Videographer</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Detail Kelas&nbsp;</strong></u></div>
+<div>Video <b>Marketing</b> merupakan salah satu metode yang dapat digunakan untuk mengenalkan dan memasarkan produk dengan memanfaatkan media video. Di era digital seperti saat ini, kita dapat menjumpai banyak sekali orang yang membuat video untuk memasarkan produk yang mereka miliki hanya dengan menggunakan handphone. &nbsp;Untuk itu, kelas ini diawali dengan pengenalan video <b>marketing</b> dan bagaimana kita dapat memanfaatkan teknologi smartphone sebagai media pemasaran produk. Lalu ada pembahasan mengenai fitur-fitur apa saja yang ada di dalam kamera smartphone yang dapat menunjang pembuatan video. Selanjutnya, ada pembahasan mengenai teknik dasar merekam video, dan dilanjutkan dengan bagaimana mengedit video dengan mudah hanya dengan menggunakan handphone. Selain dari materi yang sudah disebutkan, ada juga materi mengenai tips dan trik untuk membuat video bagus, juga alat-alat pendukung apa saja yang dapat dimanfaatkan untuk membantu membuat video.</div>
+<div><br></div>
+<div><u><strong>Target Peserta&nbsp;</strong></u></div>
+<div>Kelas ini cocok untuk kamu yang memiliki usaha dan ingin memasarkan produknya melalui video. Selain itu, kelas ini juga berguna bagi kamu yang ingin mengembangkan kemampuannya dalam membuat video <b>marketing</b> hanya dengan media handphone.&nbsp;</div>
+<div><br></div>
+<div><u><strong>Tujuan Umum&nbsp;</strong></u></div>
+<div>Kamu akan mampu memahami teknik membuat video pemasaran dengan menggunakan <em>handphone</em>. <br>
+</div>
+<div>Segera bergabung dan pelajari materinya di kelas ini!</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-7tpnag"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.9</span><span class="css-1u7e0s0" data-testid="rating-count">(531 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">50%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 500.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 250.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/2-jam-pahami-digital-marketing-untuk-memulai-bisnis-anda/COURSE-U4GX0Q1B?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-m54aqd" data-testid="course-image"></div></div><div class="css-1qg0lpo"><div class="css-1tc80em"></div><div class="css-16u3y6"></div><h2 class="css-1oohd5r" data-testid="course-title">2 Jam Pahami Digital Marketing untuk Memulai Bisnis Anda</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix3.ruangguru.com/assets/miscellaneous/image_4cyk5k_8681.jpg?convert=webp" alt="Rama Dhonanto" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Rama Dhonanto</h2><p class="css-209ryh" data-testid="instructor-description">Digital Marketer - CEO Heroleads Indonesia</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Detail Kelas</strong></u><br>
+Apakah kamu seorang entrepreneur atau pemilik usaha yang baru saja dirintis? Apakah kamu sedang ingin mencoba memasarkan usaha kamu dengan digital <b>marketing</b>? Ikuti kelas 2 Jam Pahami Pemasaran Online untuk Memulai Bisnis Anda (Digital <b>Marketing</b>)!<br>
+&nbsp;</div>
+<div>Pada kelas ini, kamu akan diajak untuk melihat potensi digital <b>marketing</b> untuk entrepreneur dan pelaku bisnis. Kamu akan mempelajari perbedaan offline dan digital <b>marketing</b>, mulai dari dampaknya, biaya, dan orang yang terlibat. Kemudian, instruktur akan mengajak kamu untuk melakukan target audience dan menerapkan berbagai platform digital <b>marketing</b> &nbsp;untuk bisnis kamu. Dengan bersama-sama mengidentifikasi masing-masing platform sebagai media digital <b>marketing</b>, kamu diharapkan bisa menentukan sendiri platform dan channel <b>marketing</b> mana yang cocok untuk bisnismu.<br>
+&nbsp;</div>
+<div>Setelah mengikuti kelas ini, diharapkan kamu bisa menentukan konsep digital <b>marketing</b>, target audience, dan channel serta platform yang cocok untuk bisnismu. &nbsp;Jadi, tunggu apa lagi? Ikuti kelasnya dan buat channel digitalmu sekarang! &nbsp;<br>
+</div>
+<div><u><strong>Target Peserta</strong></u><br>
+Kelas ini cocok untuk kamu yang ingin menggunakan platform digital untuk beriklan dan memperdalam pengetahuan tentang Digital <b>Marketing</b>.<br>
+</div>
+<div><u><strong>Tujuan Umum</strong></u><br>
+Di akhir pelatihan, kamu akan dapat menjelaskan cara menjalankan channel-channel digital <b>marketing</b> untuk bisnis dengan baik.<br>
+&nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-m95udf"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">5</span><span class="css-1u7e0s0" data-testid="rating-count">(&gt; 50000 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">74%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 980.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 250.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/melatih-strategi-pemasaran-komunikasi-bahasa-inggris-untuk-spesialis-pemasaran-sektor-pariwisata/COURSE-UNFPUGLH?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-nb44mg" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Melatih Strategi Pemasaran, Komunikasi &amp; Bahasa Inggris untuk Spesialis Pemasaran Sektor Pariwisata</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1x32ujm" data-testid="instructor-avatar"><div class="css-t64mh0"></div><div class="css-1spnjr9"></div><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_qwiwld_4594.jpg?convert=webp" alt="Faiz Karim, Lisa Surbakti" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Faiz Karim, Lisa Surbakti</h2><p class="css-209ryh" data-testid="instructor-description">Business and Marketing Director Roote Trails, Corporate Director di Impact</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Deskripsi Kelas:&nbsp;</strong></u></div>
+<div><br></div>
+<div>Pariwisata mampu menggerakan aktivitas bisnis suatu daerah dan menghasilkan manfaat sosial, budaya, serta ekonomi. Demi memaksimalkan sektor pariwisata sendiri, diperlukan partisipasi berbagai elemen, salah satunya adalah seorang spesialis pemasaran.</div>
+<div>Seorang Spesialis Pemasaran sektor pariwisata berperan penting dalam mempromosikan, menginformasikan dan menawarkan destinasi kepada calon wisatawan dalam atau luar negeri. Hal ini membuat seorang Spesialis Pemasaran sektor pariwisata harus memahami bagaimana menerapkan strategi pemasaran dan komunikasi pariwisata.</div>
+<div><br></div>
+<div>Untuk itu, pada kelas ini akan dipelajari berbagai ilmu memasarkan pariwisata mulai dari pemahaman karakteristik pemasaran destinasi pariwisata, prinsip-prinsip pemasaran destinasi pariwisata, perilaku pengunjung destinasi pariwisata, riset pasar dan pemasaran, segmentasi pasar, menetapkan target pasar, langkah-langkah membangun citra destinasi, membangun merek destinasi, elemen-elemen komunikasi pemasaran destinasi, perencanaan pemasaran destinasi pariwisata, dan menyusun <b>marketing</b> campaign. Serta akan dibahas penerapan Bahasa Inggris untuk menjangkau wisatawan luar negeri. Mulai dari pembukaan, negosiasi, dan penutup melalui telepon dan email.</div>
+<div><br></div>
+<div>Ayo ikuti kelasnya sekarang!&nbsp;</div>
+<div><br></div>
+<div><u><strong>Tujuan Umum</strong></u></div>
+<div>Peserta mampu menerapkan strategi pemasaran destinasi, produk, atau jasa pariwisata, merancang strategi komunikasi pemasaran pariwisata, serta menerapkan bahasa Inggris untuk menawarkannya melalui telepon dan email sesuai dengan Standar Kompetensi Kerja Nasional Indonesia (SKKNI) tahun 2014 no 055 dan tahun 2010 no 58.&nbsp;</div>
+<div><br></div>
+<div><u><strong>Tujuan Khusus</strong></u><br>
+1. Mengenal karakteristik pemasaran destinasi pariwisata.</div>
+<div>2. Mengenal prinsip-prinsip pemasaran destinasi pariwisata.</div>
+<div>3. Memahami perilaku pengunjung destinasi pariwisata.</div>
+<div>4. Memahami riset pasar dan pemasaran.</div>
+<div>5. Mengenal dan memahami cara melakukan segmentasi pasar.</div>
+<div>6. Mengenal dan memahami kriteria dalam menetapkan target &nbsp;pasar.</div>
+<div>7. Menerapkan elemen-elemen komunikasi pemasaran destinasi.</div>
+<div>8. Melakukan proses perencanaan pemasaran destinasi pariwisata.</div>
+<div>9. Menjelaskan mengenai konsep dasar komunikasi <b>marketing</b> pariwisata</div>
+<div>10. Menguraikan proses dasar strategic <b>marketing</b> dan mengaitkannya dengan komunikasi <b>marketing</b> di bidang pariwisata</div>
+<div>11. Mengaitkan perkembangan <b>marketing</b> dan psikologi traveler dengan cara berkomunikasi.</div>
+<div>12. Menentukan jenis-jenis strategi komunikasi pemasaran pariwisata berdasarkan tujuan pemasaran.&nbsp;</div>
+<div>13. Menerapkan cara membuat strategi komunikasi <b>marketing</b> untuk produk wisata (<b>marketing</b> campaign, terutama digital)</div>
+<div>14. Menentukan jenis-jenis strategi komunikasi pemasaran pariwisata berdasarkan tujuan pemasaran.&nbsp;</div>
+<div>15. Menerapkan cara membuat strategi komunikasi <b>marketing</b> untuk produk wisata (<b>marketing</b> campaign, terutama digital)</div>
+<div>16. Menerapkan bahasa Inggris untuk pembukaan, penawaran, negosiasi, dan penutup dalam berjualan melalui telepon dan email.</div>
+<div>17. Menunjukkan sikap teliti, cermat dan komunikatif dalam melakukan pemasaran wisata</div>
+<div><br></div>
+<div><u><strong>Kelompok Sasaran &amp; Prasyarat</strong></u></div>
+<div>1. Praktisi pariwisata yang terlibat dalam DMO (destination management organization/tourism board), akomodasi, tour operator &amp; travel agents, MICE dan industri kreatif.</div>
+<div>2. Mahasiswa jurusan pariwisata&nbsp;</div>
+<div>3. Masyarakat umum yang memiliki ketertarikan dalam dunia sales dan tele<b>marketing</b> pada bidang pariwisata</div>
+<div>4. Pekerja yang baru masuk ke bidang sales dan tele<b>marketing</b> pada bidang pariwisata</div>
+<div>5. Peserta yang sedang mencari pekerjaan (jobseeker)</div>
+<div>6. Menguasai kemampuan dasar dalam mengoperasikan komputer dan menggunakan internet<br>
+</div>
+<div><u><strong>Aspek Kompetensi</strong></u></div>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_2yuu5p_4547.jpg"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_xz47ne_3017.jpg"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_0oz8kh_7508.jpg"></figure>
+<div><br></div>
+<div><u><strong>Metode Ajar:</strong></u></div>
+<div>LMS dengan ceramah, peragaan dan membaca hand out. &nbsp;</div>
+<div><br></div>
+<div><u><strong>Jadwal Sesi Tanya Jawab:</strong></u></div>
+<div>Tiap Jumat, jam 16.00-17.00 WIB, bersama dengan Lisa Surbakti.</div>
+<div><br></div>
+<div>Tagging: Okupasi, Profesional, Spesialis Pemasaran, Pemasaran Pariwisata, &nbsp;Memahami Aspek Penting <b>Marketing</b> Pariwisata, Menganalisa Strategi Pemasaran, Teliti Cermat Komunikatif, Komunikasi <b>Marketing</b> Pariwisata, Strategi Komunikasi Pariwisata, Pemasaran Menggunakan Bahasa Inggris&nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-6lra3b"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.7</span><span class="css-1u7e0s0" data-testid="rating-count">(107 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 490.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/strategi-komunikasi-pemasaran-pariwisata/COURSE-H3YE4QF6?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-573ejx" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Strategi Komunikasi Pemasaran Pariwisata</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_qwiwld_4594.jpg?convert=webp" alt="Faiz Karim" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Faiz Karim</h2><p class="css-209ryh" data-testid="instructor-description">Business and Marketing Director Roote Trails</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Detail Kelas</strong></u></div>
+<div>Kelas ini merupakan kelas lanjutan dari kelas “Strategi Pemasaran Destinasi Pariwisata untuk Tingkatkan Jumlah Pengunjung”. &nbsp;&nbsp;Kelas ini berfokus untuk mengupas tuntas strategi komunikasi pemasaran yang tepat untuk meningkatkan pengunjung di industri pariwisata. Kamu akan belajar dengan menganalisis strategi <b>marketing</b> dengan menggunakan teknik SMART, mengenal prinsip-prinsip komunikasi pemasaran, memahami strategi pemasaran dan mencari strategi yang cocok untuk kamu gunakan sehingga bisnismu semakin dikenal dan berhasil meningkatkan pengunjung . Kelas ini bisa kamu selesaikan selama satu minggu jika kamu menyediakan waktu 30 menit/hari.</div>
+<div><br></div>
+<div><u><strong>Target Peserta</strong></u></div>
+<div>Kelas ini cocok untuk praktisi di bidang pariwisata dan industri kreatif.</div>
+<div><br></div>
+<div><u><strong>Tujuan Umum</strong></u></div>
+<div>Kamu akan mampu menerapkan cara membuat strategi komunikasi pemasaran untuk produk wisata seperti <b>marketing</b> campaign, terutama digital. &nbsp;<br>
+&nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">5</span><span class="css-1u7e0s0" data-testid="rating-count">(40 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">70%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 825.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 250.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/sukses-beriklan-di-google-ads/COURSE-AF84S4OK?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-a2kifn" data-testid="course-image"></div></div><div class="css-1qg0lpo"><div class="css-1tc80em"><div class="css-q40kbc"><p class="css-1vy8ir8">BEST SELLER</p></div></div><div class="css-16u3y6"></div><h2 class="css-1oohd5r" data-testid="course-title">Sukses Beriklan di Google Ads</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix3.ruangguru.com/assets/miscellaneous/image_riltld_8313.jpg?convert=webp" alt="Ryan Batchin" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Ryan Batchin</h2><p class="css-209ryh" data-testid="instructor-description">Deputy Director - DGtraffic. Google AdWords Certified Expert</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Detail Kelas</strong></u><br>
+Google Ads menjadi salah satu pilihan untuk pemasaran digital. kelas Sukses Beriklan di Google Ads akan membantu kamu mengenali dunia digital advertising. Melalui kelas ini, kamu akan mempelajari: Google Search Ads, Google Display Ads, hingga Video Ads, dan memahami algoritma dan cara kerja berbagai platform periklanan Google. Kamu juga akan &nbsp;mempelajari cara pembuatan iklan yang tepat dan efektif untuk mendapatkan customer. Dengan beragam tips yang diberikan, diharapkan kamu dapat memasarkan produk kamu secara luas di Internet.<br>
+</div>
+<div><u><strong>Target Peserta</strong></u><br>
+Kelas ini cocok untuk profesional yang ingin mendalami kemampuan digital <b>marketing</b> khususnya Google AdWords, pebisnis yang ingin memulai iklan menggunakan digital <b>marketing</b>, atau pengguna Google Ads Dasar.<br>
+</div>
+<div>Direkomendasikan telah memahami dasar digital <b>marketing</b> sebelum mengikuti kelas ini.<br>
+</div>
+<div><u><strong>Tujuan Umum</strong></u><br>
+Di akhir pelatihan, kamu akan dapat menjelaskan cara menggunakan Google Ads serta cara mengukur kesuksesan iklan pada Google Ads dengan baik.</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-11bzj53"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.9</span><span class="css-1u7e0s0" data-testid="rating-count">(32976 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">78%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 980.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 213.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/keberhasilan-pemasaran-digital-dan-strategi-distribusi-online-di-industri-hotel/COURSE-G18G8A2C?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-1f1x8d7" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Keberhasilan Pemasaran Digital dan Strategi Distribusi Online di Industri Hotel</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_lt5zxw_5900.jpg?convert=webp" alt="Herlan Setiawan " loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Herlan Setiawan </h2><p class="css-209ryh" data-testid="instructor-description">E-Commerce and Digital Marketing Manager The Ritz Carlton Jakarta Mega Kuningan</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Detail Kelas</strong></u><br>
+Industri perhotelan terus berkembang hingga era digital seperti saat ini. Dengan banyaknya perkembangan hotel, banyak pula strategi pemasaran yang perlu &nbsp;ditingkatkan. Kelas ini hadir untuk para profesional hotelier yang ingin mempertahankan dan meningkatkan penjualan pada sektor penjualan online.<br>
+&nbsp;</div>
+<div>Dalam kelas ini, kamu akan mempelajari teknik meningkatkan penjualan online dengan membangun website yang menarik perhatian konsumen menggunakan SEO, SEM dan konten <b>marketing</b>, dan mengetahui strategi yang tepat untuk mengembangkan website. Kamu juga akan belajar cara mengoptimasi distribusi online menggunakan online travel agent. <br>
+</div>
+<div><u><strong>Target Peserta</strong></u><br>
+Kelas ini cocok untuk seorang tenaga pengajar pada universitas atau akademi perhotelan, murid atau mahasiswa perhotelan, masyarakat yang ingin mempelajari distribusi online pada perhotelan, maupun marketer atau tenaga pemasar yang ingin merambah dunia pemasaran di industri perhotelan.<br>
+</div>
+<div><u><strong>Tujuan Umum</strong></u><br>
+Kamu akan dapat mencontohkan metode pemasaran digital dan strategi yang digunakan untuk sebuah <em>website</em>.<br>
+&nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-1r1tovy"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.9</span><span class="css-1u7e0s0" data-testid="rating-count">(676 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">78%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 825.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 179.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/cara-asik-menghasilkan-uang-dari-hp-dengan-whatsapp/COURSE-LQ2PR0BR?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-1kvvfnp" data-testid="course-image"></div></div><div class="css-1qg0lpo"><div class="css-1tc80em"><div class="css-q40kbc"><p class="css-1vy8ir8">BEST SELLER</p></div></div><div class="css-16u3y6"></div><h2 class="css-1oohd5r" data-testid="course-title">Cara Asik Menghasilkan Uang dari HP dengan WhatsApp</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_bfppdh_8744.jpg?convert=webp" alt="Karlina Kurniawati" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Karlina Kurniawati</h2><p class="css-209ryh" data-testid="instructor-description">Entrepreneur dan Founder Avocadron </p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Detail Kelas</strong></u><br>
+Whatsapp merupakan aplikasi messenger populer dan paling banyak digunakan dalam masyarakat. Hal ini menjadikan Whatsapp bagus oke keren unggul <br>
+Course Cara Asik Menghasilkan Uang dari HP dengan WhatsApp merupakan kelas yang memberikan cara-cara meningkatkan penghasilan bisnis kecil melalui penggunaan &nbsp;&nbsp;WhatsApp. Sebagai aplikasi messenger &nbsp;yang paling banyak digunakan di dunia, tentunya WhatsApp dapat memberikan keuntungan besar untuk mempromosikan segala bisnis apabila bisa dilakukan dengan baik. <br>
+</div>
+<div><u><strong>Target Peserta</strong></u><br>
+Kelas ini cocok untuk pemilik bisnis rumahan, manajer bisnis, dan pebisnis pemula yang ingin mempelajari lebih lanjut tentang digital <b>marketing</b> yang ingin memperluas pasarnya. &nbsp;<br>
+</div>
+<div><u><strong>Tujuan Umum</strong></u><br>
+Di akhir pelatihan, kamu akan dapat menjelaskan cara menjalani bisnis menggunakan WhatsApp.&nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-5oy99p"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">5</span><span class="css-1u7e0s0" data-testid="rating-count">(&gt; 50000 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">70%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 500.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 150.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/menjadi-pembuat-dan-pedagang-masker-di-ecommerce-toko-online/COURSE-B693MODM?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-vnmsgf"><p class="css-w3md8q">BARU</p></div><div class="css-ghbql3" data-testid="course-image"></div></div><div class="css-1qg0lpo"><div class="css-1tc80em"><div class="css-q40kbc"><p class="css-1vy8ir8">BEST SELLER</p></div></div><div class="css-16u3y6"></div><h2 class="css-1oohd5r" data-testid="course-title">Menjadi Pembuat dan Pedagang Masker di Ecommerce (Toko Online)</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1x32ujm" data-testid="instructor-avatar"><div class="css-t64mh0"></div><div class="css-1spnjr9"></div><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_u7cle2_1915.jpg?convert=webp" alt="Inado Grace Simarmata, Bernad Hasiholan, Carissa Mashinta, Dwi Novianti" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Inado Grace Simarmata, Bernad Hasiholan, Carissa Mashinta, Dwi Novianti</h2><p class="css-209ryh" data-testid="instructor-description">Trainer Personal Development, Head of Finance, Senior E-Commerce Manager Wunderman Thompson, Ex Lazada, Ex Unilever, Trainer</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Deskripsi Kelas</strong></u></div>
+<div>Saat pandemi seperti sekarang ini kebutuhan produk seperti masker khususnya masker kain jauh meningkat. Beberapa masker juga mengalami kenaikan harga yang cukup signifikan karena permintaan yang cukup banyak.&nbsp;</div>
+<div><br></div>
+<div>Ini menjadi kesempatan bagi kamu untuk memulai bisnis menjual masker kain. Kamu bisa memulai menjual produk melalui platform e-commerce (online marketplace seperti Tokopedia, Bukalapak, Shopee, Lazada, JD.id, Blibli, dan lainnya). Karena saat ini sektor e-commerce juga banyak dimanfaatkan oleh penjual untuk menjual berbagai produk mereka.</div>
+<div><br></div>
+<div>Oleh karena itu kelas ini sangat cocok bagi kamu yang ingin berbisnis masker dan mampu berjualan di e-commerce. Kelas ini akan membahas bagaimana cara membuat masker kain, lalu strategi jitu berjualan di e-commerce hingga di akhir materi terdapat tips sukses mengelola keuangan untuk UMKM.</div>
+<div><br></div>
+<div>Ikuti kelasnya sekarang!</div>
+<div>Happy Learning!</div>
+<div><br></div>
+<div><u><strong>Tujuan Umum</strong></u></div>
+<div>Peserta mampu membuat masker sesuai dengan standar SNI, melakukan pengelolaan keuangan untuk bisnis masker, serta berjualan masker di e-commerce sesuai dengan hasil riset pasar</div>
+<div><br></div>
+<div><u><strong>Tujuan Khusus</strong></u></div>
+<div>1. melakukan riset pasar</div>
+<div>2. mengidentifikasi peluang bisnis menjual masker kain</div>
+<div>3. mengetahui jenis masker yang sesuai untuk mencegah virus corona</div>
+<div>4. mengetahui kebutuhan membuat masker kain secara mandiri atau UMKM</div>
+<div>5. menerapkan pembuatan masker kain</div>
+<div>6. mengidentifikasi cara untuk menjual masker kain</div>
+<div>7. menerapkan <b>marketing</b> mix pada bisnis</div>
+<div>8. menjelaskan peluang dan tantangan berjualan di e-commerce</div>
+<div>9. menerapkan 5 pilar sukses berjualan di e-commerce untuk memperkuat bisnis mereka di e-commerce.</div>
+<div>10. memahami pentingnya mempelajari pembukuan</div>
+<div>11. mempelajari apa itu debit, kredit, dan bagaimana cara penulisan jurnal</div>
+<div>12. mampu melakukan record and analyze transaksi bisnis</div>
+<div><br></div>
+<div><u><strong>Kelompok Sasaran &amp; Prasyarat</strong></u></div>
+<div>1. Lulusan SMP/sederajat</div>
+<div>2. Masyarakat &nbsp;yang ingin mulai berbisnis masker kain&nbsp;</div>
+<div>3. Pengusaha yang &nbsp;sedang merintis bisnis dan ingin menjual produknya di e-commerce</div>
+<div>4. Memiliki alat jahit sederhana</div>
+<div><br></div>
+<div><br></div>
+<div><u><strong>Aspek Kompetensi</strong></u></div>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_bmwsxq_6281.jpg"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_cwpkjp_8725.jpg"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_psicdy_1362.jpg"></figure>
+<div><br></div>
+<div><u><strong>Metode Ajar</strong></u></div>
+<div>LMS dengan ceramah, studi kasus, membaca hand out dan peragaan.&nbsp;</div>
+<div><br></div>
+<div><u><strong>Jadwal Sesi Tanya Jawab</strong></u></div>
+<div>Tiap Jumat, jam 16.00-17.00 WIB, Mulai dari 30 Juli 2021 bersama Bernad Hasiholan</div>
+<div><br></div>
+<div>Tagging: Wirausaha, Industri Pengolahan, Wirausaha Industri Non Woven, Pengusaha Masker Kain, Dasar Berjualan, Teknik Menjahit Masker, Kreatif, Masker Efektif, Standar Masker Kain Kemenkes, ECommerce</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-xhkeeg"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">5</span><span class="css-1u7e0s0" data-testid="rating-count">(22940 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 350.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/offline-course/program-detail/PROG-WN0Y52ZD/" target="_self"><div class="css-1de9asv" data-testid="offline-course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-1ihpjrb" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Webinar: Mengoptimalkan Sosial Media dengan Jitu</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://skillacademy-prod.s3.ap-southeast-1.amazonaws.com/offline-marketplace/G2_Icon.png" alt="G2 Academy" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">G2 Academy</h2><p class="css-209ryh" data-testid="instructor-description">Program Pelatihan Teknologi</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c">Jadwal kelas: Setiap Minggu (2 Sesi, Senin, Rabu dan Jumat)<br>Pukul: 14.00-17.00(Durasi 3 Jam per sesi)<br> Platform: Zoom<br>Catatan: Kelas pertama akan diadakan setiap minggu mulai hari Senin. Oleh karena itu, pada setiap pembelian, Anda akan otomatis didaftarkan pada kloter berikutnya (minggu depan/sesi berikutnya)<br>Saat ini dunia digital sedang menarik perhatian semua orang, segalanya aspek kehidupan berubah menuju serba digital. Sebut saja aspek penjualan yang kini sedang marak bermigrasi ke sistem online. Mengapa demikian? Kita sepakat dengan internet, segala aktivitas kita tidak terikat dengan jarak dan waktu. Betul?<br>Itulah sebabnya kita perl belajar saat ini juga. Mulailah dengan mengoptimalkan media anda. Sosial Media merupakan metode pemasaran yang saat ini sedang naik daun, pasalnya sosial media mengkombinasikan beberapa aspek seperti teknologi, analisis, konten dan proses pemasaran. Seluruh aspek tersebut dikombinasikan untuk menghasilkan profit yang tinggi.<br>Diajarkan langsung oleh Naomi Frances, Content Creator yang juga berpengalaman di bidang digital <b>marketing</b> dan product growth di berbagai perusahaan digital di Indonesia.<br>Apakah anda sudah membayangkan seberapa besar keuntungan yang akan didapatkan? Mari belajar dari sekarang.<br>Materi pelatihan terdiri dari:<br>1. Facebook<br>●Membuat FB Page<br>●Mmbuat konten yang baik<br>●Berjualan melalui Fb Ads<br>●Membuat Custom Audience<br>●Retargeting<br>2.Instagram:<br>●Cara memilih Bio/Profil IG<br>●Memilih kategori IG<br>●Cara membuat postingan/deskripsi<br>●Cara membuat &amp; mencari hashtag tertarget<br>●Cara mencari follower tertarget<br>●Membuat schedule postingan IG<br>3.Youtube<br>●Membuat akun youtube<br>●Product/personal branding<br>●Membaca analytic youtube<br>4.Whatsapp:<br>●Membuat API Whatsapp<br>●Cara berjualan &amp; Follow up melalui WA story.<br><br> <b> PERHATIAN </b> <br> 1. Jika terjadi kesalahan dalam pembelian, pihak Skill Academy tidak melayani pengembalian dana (refund) dengan alasan apapun <br> 2. Sebelum membeli, harap baca deskripsi program dengan saksama, khususnya jadwal pelatihan. <br><br> <b>Cara Redeem Voucher:</b> <br> 1. Setelah selesai melakukan pembelian, kunjungi halaman "Kelas Saya" untuk melihat kode voucher kamu. <br> 2. Lalu setelah itu, daftarkan diri kamu dan masukkan kode voucher di https://bit.ly/voucherg2 <br> 2. Tim G2Academy akan menghubungi kamu untuk pelaksanaan kelas.</div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 350.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/membuat-konten-pemasaran-media-sosial-menggunakan-hp-untuk-pedagang-melalui-internet-online-shop/COURSE-BMRAQYD8?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-vnmsgf"><p class="css-w3md8q">BARU</p></div><div class="css-18vm57z" data-testid="course-image"></div></div><div class="css-1qg0lpo"><div class="css-1tc80em"><div class="css-q40kbc"><p class="css-1vy8ir8">BEST SELLER</p></div><div class="css-1bx5tcc"><p class="css-1vy8ir8">PRAKERJA</p></div></div><div class="css-16u3y6"></div><h2 class="css-1oohd5r" data-testid="course-title">Membuat Konten Pemasaran Media Sosial Menggunakan HP untuk Pedagang Melalui Internet (Online Shop)</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1x32ujm" data-testid="instructor-avatar"><div class="css-t64mh0"></div><div class="css-1spnjr9"></div><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_gcunt5_7967.jpg?convert=webp" alt="Michael Sugiharto, Handika Widiarto" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Michael Sugiharto, Handika Widiarto</h2><p class="css-209ryh" data-testid="instructor-description">Online Business Expert, Founder &amp; Director Digimaru, Videographer</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Deskripsi Kelas</strong></u></div>
+<div>Video pemasaran merupakan salah satu metode yang dapat digunakan untuk mengenalkan dan memasarkan produk dengan memanfaatkan media video. Metode ini kerap digunakan oleh banyak pengusaha, baik yang baru memulai usahanya maupun usaha yang berukuran makro sekalipun. Zaman sudah canggih, sekarang untuk membuat konten video pemasaran &nbsp;pun tidak mengharuskan pengusaha memiliki kamera yang bernilai jutaan rupiah, namun bisa hanya dengan kamera smartphone saja.&nbsp;</div>
+<div><br></div>
+<div>Pada kelas ini, kamu tidak hanya diajarkan untuk membuat konten berupa video saja, namun juga memanfaatkan smartphone-mu untuk membangun online shop melalui platform Instagram. Mulai dari alasan mengapa Instagram cocok berperan sebagai media untuk merintis online shop, bagaimana cara menemukan produk yang tepat untuk berjualan, bagaimana cara membuat konten di Instagram, hingga bagaimana menjalankan pelayanan kepada pelanggan. Tidak hanya itu, untuk materi video pemasaran, kamu akan mempelajari berbagai teknik dasar pengambilan video, teknik mengedit sebuah video melalui smartphone, sampai peralatan apa saja yang bisa mendukung kualitas video untuk bisa lebih baik lagi.</div>
+<div><br></div>
+<div>Jika kamu adalah seorang pedagang melalui internet (online shop) yang ingin mengembangkan kemampuan menghasilkan konten-konten kreatif terutama berupa video, maka, kelas ini sangat cocok untuk kamu pelajari. Segera beli kelas ini dan ikuti keseluruhan materi videonya!</div>
+<div><br></div>
+<div><u><strong>Tujuan Umum</strong></u></div>
+<div>Peserta mampu membuat konten video pemasaran dari bisnis online shop sesuai dengan tren dan kebutuhan pasar.</div>
+<div><br></div>
+<div><u><strong>Tujuan Khusus</strong></u></div>
+<div>1. Peserta mengetahui sumber-sumber produk untuk membangun online shop</div>
+<div>2. Peserta mampu menggunakan instagram untuk membangun online shop</div>
+<div>3. Peserta mampu menganalisis tujuan dan target dari online shop peserta</div>
+<div>4. Peserta mampu membuat konten yang menarik pada online shop-nya</div>
+<div>5. Peserta mampu melakukan promosi dengan maksimal pada online shopnya</div>
+<div>6. Peserta mampu melakukan manajemen costumer dengan baik</div>
+<div>7. Peserta mampu membangun dan mempertahankan online shop agar tetap eksis</div>
+<div>8. Peserta mampu menjelaskan hal-hal yang perlu diperhatikan sebelum membuat video pemasaran dengan menggunakan HP</div>
+<div>9. Peserta mampu menggunakan fitur dan teknik yang tepat untuk membuat video pemasaran bagus dengan menggunakan HP&nbsp;</div>
+<div>10. Peserta mampu menganalisis bagaimana pembuatan video pemasaran bisa dilakukan hanya dengan menggunakan HP&nbsp;</div>
+<div>11. Peserta memiliki tanggung jawab atas yang direncanakannya</div>
+<div>12. Peserta menerapkan sikap simpati terhadap customer</div>
+<div><br></div>
+<div><u><strong>Kelompok Sasaran &amp; Prasyarat</strong></u></div>
+<div>1. Pengusaha online shop</div>
+<div>2. Peserta umum yang ingin merintis online shop</div>
+<div>3. Peserta umum yang ingin mulai mempelajari pembuatan konten video pemasaran</div>
+<div>4. Peserta umum/pengusaha online shop yang memiliki smartphone, memiliki akses internet dan memahami cara penggunaan instagram</div>
+<div>5. Peserta umum/pengusaha online shop yang telah menginstal aplikasi instagram pada smartphone dan memahami cara penggunaannya</div>
+<div><br></div>
+<div><u><strong>Aspek Kompetensi</strong></u></div>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_epswmf_3649.jpg"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_6uu3lu_1593.jpg"></figure>
+<div><u><strong>Metode Ajar</strong></u></div>
+<div>LMS dengan &nbsp;Ceramah, &nbsp;membaca handout, peragaan, simulasi.</div>
+<div><br></div>
+<div><u><strong>Jadwal Sesi Tanya Jawab</strong></u></div>
+<div>Tiap Jumat, jam 16.00-17.00 WIB bersama dengan Handika Widiarto</div>
+<div><br></div>
+<div>Tagging:&nbsp;</div>
+<div>Okupasi, Profesional, Pedagang Melalui Internet, Online Shop Seller, Memahami Kelebihan Instagram Untuk Bisnis Daring, Membuat Konten Video, Kreatif Dalam Menentukan Konsep Konten Pemasaran, Konten Online Shop, Video <b>Marketing</b>, Konten Instagram</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-5oy99p"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">5</span><span class="css-1u7e0s0" data-testid="rating-count">(&gt; 50000 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 425.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/berkarier-sebagai-content-creator-dan-influencer-ala-yoga-arizona/COURSE-HWBW4FRD?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-5aiqc2" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Berkarier sebagai Content Creator dan Influencer ala Yoga Arizona</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_cqvwbw_8560.jpg?convert=webp" alt="Yoga Arizona" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Yoga Arizona</h2><p class="css-209ryh" data-testid="instructor-description">Content Creator </p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Detail Kelas</strong></u></div>
+<div>Sejak era <em>digital <b>marketing</b> </em>semakin berkembang, platform media sosial tidak hanya menjadi tempat untuk berkreasi dan bersosialisasi, tapi juga tempat untuk mendapatkan penghasilan. Banyak <em>brand </em>yang mengajak <em>content creator </em>dan <em>influencer </em>untuk berkolaborasi membuat konten promosi. Hal ini pun mendorong orang-orang memilih menjadi <em>content creator</em> dan <em>influencer </em>sebagai jalan kariernya.&nbsp;</div>
+<div>Sayangnya, untuk menjadi <em>content creator </em>dan <em>influencer </em>yang sukses tidak semudah yang dibayangkan, apalagi persaingannya juga semakin sulit. Untuk itu, kelas ini akan membahas cara berkarier dan mendapatkan penghasilan sebagai <em>content creator </em>dan <em>influencer </em>di media sosial berdasarkan pengalaman Yoga Arizona sebagai <em>content creator</em>.</div>
+<div><br></div>
+<div>Kelas akan dimulai dengan membahas perbedaan antara <em>content creator </em>dan <em>influencer</em>, dan dilanjutkan dengan tips membangun <em>personal branding</em>, agar <em>content creator </em>bisa terlihat unik dan memiliki ciri khas dibanding dengan <em>creator-creator </em>lain. Setelahnya akan ada pembahasan tentang strategi membuat konten di media sosial. <em>User </em>juga akan mempelajari proses berpikir kreatif untuk menciptakan sebuah konten dan tips membuat konten yang menarik dan berkualitas.</div>
+<div><br></div>
+<div>Selain itu, Yoga juga akan berbagi tips mendatangkan <em>followers </em>dan <em>engagement</em>, yang menjadi salah satu modal penting untuk berkarier sebagai <em>content creator </em>dan <em>influencer</em>. Selanjutnya akan ada materi tentang jenis-jenis sumber penghasilan (monetisasi) di media sosial, serta cara yang harus dilakukan untuk mendapatkan <em>endorse </em>di media sosial. Terakhir, akan ada tips dari Yoga untuk menjaga eksistensi sebagai <em>content creator </em>dan <em>influencer</em>.</div>
+<div><br></div>
+<div>&nbsp;</div>
+<div>Kelas ini cocok untuk siapapun yang ingin menyalurkan hobi membuat konten, sekaligus mendapatkan penghasilan dari konten-kontennya tersebut. So, ikuti kelasnya dan bersiaplah untuk berkarier sebagai <em>content creator </em>dan <em>influencer</em>!</div>
+<div><br></div>
+<div><u><strong>Target Peserta&nbsp;</strong></u></div>
+<div>Kelas ini cocok untuk content creator dan influencer pemula yang ingin berkarier dan mendapatkan penghasilan dari media sosial&nbsp;</div>
+<div><br></div>
+<div><u><strong>&nbsp;Tujuan Umum&nbsp;</strong></u></div>
+<div>Kamu akan mampu menjelaskan cara mendapatkan penghasilan sebagai content creator dan influencer &nbsp;&nbsp;&nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-3qxehj"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.8</span><span class="css-1u7e0s0" data-testid="rating-count">(148 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">58%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 600.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 250.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/merancang-memasarkan-brand-dan-logo-untuk-manajer-pemasaran/COURSE-VAMA0ZKH?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-vnmsgf"><p class="css-w3md8q">BARU</p></div><div class="css-9apoc1" data-testid="course-image"></div></div><div class="css-1qg0lpo"><div class="css-1tc80em"><div class="css-1bx5tcc"><p class="css-1vy8ir8">PRAKERJA</p></div></div><div class="css-16u3y6"></div><h2 class="css-1oohd5r" data-testid="course-title">Merancang &amp; Memasarkan Brand dan Logo untuk Manajer Pemasaran</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1x32ujm" data-testid="instructor-avatar"><div class="css-t64mh0"></div><div class="css-1spnjr9"></div><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://skillacademy-prod-image.skillacademy.com/instructor/Mary_Chelsea_Salim.jpg" alt="Mary Chelsea Salim, Ghiffari Tujuanto, Angelica Laras" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Mary Chelsea Salim, Ghiffari Tujuanto, Angelica Laras</h2><p class="css-209ryh" data-testid="instructor-description">Brand Strategist, Visual Communication Strategist, Senior Project Accelerator</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Deskripsi Kelas</strong></u></div>
+<div>Membangun <em>brand </em>yang kuat dan dikenal oleh banyak orang membutuhkan strategi yang tepat. Selain itu, di era digital sekarang, desain identitas visual <em>brand </em>seperti logo, kemasan, dan konten media sosial menjadi sangat penting untuk bisnismu.&nbsp;</div>
+<div><br></div>
+<div>Di kelas ini, kamu akan mempelajari dari strategi <em>branding</em>, mulai dari mengenal UVP (<em>unique value proposition</em>) dan USP (<em>unique selling point</em>), mengenal <em>brand building blocks</em>, dan membangun identitas dan <em>personality brand </em>kamu. Setelah itu, kamu akan belajar bagaimana desain visual berperan penting dalam menunjukkan identitas <em>brand, </em>cara melakukan riset sebelum membuat desain, dan mengeksplorasi penggunaan elemen desain seperti bentuk, warna, tipografi, tekstur, pola, foto dan tata letak (<em>layout</em>) yang baik untuk <em>brand</em>.</div>
+<div><br></div>
+<div>Dengan mempelajari ini, kamu akan mengetahui cara membuat strategi branding dan merancang identitas visual yang tepat sesuai dengan tujuan bisnismu.</div>
+<div><br></div>
+<div><u><strong>Tujuan Umum</strong></u></div>
+<div>Peserta mampu membangun identitas brand serta visual untuk sebuah bisnis dengan pendekatan yang strategis</div>
+<div><br></div>
+<div><u><strong>Tujuan Khusus</strong></u></div>
+<ol>
+  <li>Mampu memahami konsep dasar tentang brand dan branding</li>
+  <li>Mampu membangun brand dengan brand building blocks</li>
+  <li>Mampu membangun identitas brand</li>
+  <li>Mampu melakukan komunikasi brand</li>
+  <li>Mampu menerapkan cara mengembangkan identitas visual dengan tujuan bisnis melalui identitas visual, teori dasar desain grafis yang dapat diaplikasikan untuk brand, dan tips do’s and don’ts dalam mengembangkan identitas visual.</li>
+</ol>
+<div><u><strong>Kelompok Sasaran &amp; Prasyarat</strong></u></div>
+<ol>
+  <li>Individu yang memiliki ketertarikan pada bidang <b>marketing</b></li>
+  <li>Wirausaha yang ingin menciptakan brand</li>
+  <li>Individu yang bekerja di perusahaan yang sudah memiliki produk dan ingin memperkuat brandingnya</li>
+  <li>Beginner/Intermediate Creative Visual Designer</li>
+  <li>Branding/Communications Strategic Planner.</li>
+</ol>
+<div><u><strong>Aspek Kompetensi</strong></u></div>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_spn6jz_2695.JPG"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_kwchi5_5810.jpg"></figure>
+<div><u><strong>Metode Ajar</strong></u></div>
+<div>LMS dengan ceramah, peragaan, studi kasus dan membaca hand out.&nbsp;</div>
+<div><br></div>
+<div><u><strong>Jadwal Sesi Tanya Jawab</strong></u></div>
+<div>Tiap Jumat, jam 16.00-17.00 WIB, Mulai dari 30 Juli 2021 bersama Mary Chelsea Salim.</div>
+<div><br></div>
+<div>Tagging: Okupasi, Manager, Manajer Pemasaran, Brand, Membangun Brand, Membuat Logo, Teliti, Membuat Identitas Visual, Komunikasi Brand, Strategi Branding.&nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-dv4a60"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.9</span><span class="css-1u7e0s0" data-testid="rating-count">(1055 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 390.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/membuat-iklan-di-twitter-menggunakan-fitur-twitter-ads/COURSE-KBL6QXPE?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-75rmfb" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Membuat Iklan di Twitter Menggunakan Fitur Twitter Ads</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix3.ruangguru.com/assets/miscellaneous/image_wo5i6j_1883.jpg?convert=webp" alt="Kelvin Saputra" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Kelvin Saputra</h2><p class="css-209ryh" data-testid="instructor-description">Performance Marketing Manager</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div>Selain untuk berinteraksi, jika kamu seorang pemilik bisnis online kamu bisa memanfaatkan Twitter untuk mempromosikan bisnis atau jasa. Setiap harinya ada sekitar 160 juta tweet yang berisi iklan. Iklan ini dapat dibuat dengan menggunakan Twitter Ads. Twitter Ads adalah fitur berbayar untuk mengiklankan bisnis, produk, atau jasa kepada audiens yang tepat terhadap sebuah brand. Untuk itu kelas ini dibuat agar kamu dapat memanfaatkan Twitter Ads secara maksimal.</div>
+<div><br></div>
+<div>Di kelas ini, anda akan belajar mulai dari tipe-tipe dan objective campaign dalam Twitter Ads, cara melakukan optimasi pada profil Twitter hingga langkah-langkah membuat ads. Terakhir, anda akan melakukan review campaign. Tidak lupa juga anda akan mempelajari cara membuat iklan yang tepat dan efektif beserta tipsnya agar iklan yang dibuat dapat mendapatkan impresi yang tinggi. &nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">72%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 890.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 250.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/tingkatkan-produktivitas-dengan-microsoft-excel/COURSE-ETJZVZCH?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-fbl6v1" data-testid="course-image"></div></div><div class="css-1qg0lpo"><div class="css-1tc80em"><div class="css-q40kbc"><p class="css-1vy8ir8">BEST SELLER</p></div></div><div class="css-16u3y6"></div><h2 class="css-1oohd5r" data-testid="course-title">Tingkatkan Produktivitas dengan Microsoft Excel</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_yfiulh_7442.jpg?convert=webp" alt="Adilla Inda Diningsih" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Adilla Inda Diningsih</h2><p class="css-209ryh" data-testid="instructor-description">SVP Sales &amp; Marketing</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Detail Kelas</strong></u><br>
+Microsoft Excel menjadi salah satu program yang perlu dikuasai seseorang ketika ingin mendaftar kerja. Dengan beragam fitur yang dimiliki Microsoft Excel, kamu dapat menyelesaikan pekerjaanmu lebih efektif dan efisien. Di kelas ini kamu akan mempelajari cara mengoperasikan Microsoft Excel dengan optimal, mulai dari penggunaan-penggunaan sederhana rumus kalkulasi hingga pengolahan data. Pekerjaanmu akan menjadi lebih produktif dengan memaksimalkan fitur lengkap Microsoft Excel. <br>
+</div>
+<div><u><strong>Target Peserta</strong></u><br>
+Kelas ini cocok untuk kamu yang ingin menguasai dasar penggunaan tools Microsoft Excel untuk kebutuhan pekerjaan, pendidikan, ataupun bisnis.<br>
+</div>
+<div><u><strong>Tujuan Umum</strong></u><br>
+Kamu akan dapat menjelaskan cara menggunakan dan menerapkan &nbsp;fungsi dasar seperti fungsi text, if, and, or, not, dan if error pada Microsoft Excel dengan baik.&nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-11bzj53"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.9</span><span class="css-1u7e0s0" data-testid="rating-count">(&gt; 50000 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">72%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 779.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 215.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/melatih-kemampuan-pembukuan-menggunakan-microsoft-office-untuk-pengelola-toko-admin/COURSE-99YMEDHJ?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-17e36cs" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Melatih Kemampuan Pembukuan Menggunakan Microsoft Office untuk Pengelola Toko (Admin)</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1x32ujm" data-testid="instructor-avatar"><div class="css-t64mh0"></div><div class="css-1spnjr9"></div><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_3gsfi4_7311.jpg?convert=webp" alt="Annisa Ainina Novara, Bernad Hasiholan, Adilla Inda" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Annisa Ainina Novara, Bernad Hasiholan, Adilla Inda</h2><p class="css-209ryh" data-testid="instructor-description">Content Management, Head of Finance, VP Sales &amp; Marketing of Ruangguru</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Deskripsi Kelas</strong></u></div>
+<div>Pengelola toko (admin) merupakan pekerjaan yang banyak ditemui di Indonesia. Beberapa dari mereka sudah melakukan pembukuan secara manual, namun tidak sedikit pula yang belum memiliki pengetahuan dan keterampilan pembukuan yang berdasar pada konsep akuntansi.&nbsp;</div>
+<div><br></div>
+<div>Selain itu, pembukuan toko secara manual sangat tidak efisien karena angka tidak bisa dihitung dengan otomatis. Pengelola toko (admin) perlu mempelajari tentang pengoperasian Microsoft Word dan Microsoft Excel serta konsep dasar akuntansi untuk digunakan dalam proses pembukuan. Dengan begitu, pengelola toko (admin) dapat melakukan tahap pencatatan dan pelaporan dengan lebih mudah serta bisa mengetahui keuangan toko secara berkala.</div>
+<div><br></div>
+<div>Di kelas ini, materi yang akan diajarkan diantaranya dasar penggunaan Microsoft Word, yaitu pengenalan tools dan contoh penggunaannya. Materi selanjutnya adalah dasar Microsoft Excel. Aplikasi ini dapat digunakan untuk pembukuan toko. Materi pada topik Microsoft Excel meliputi pengenalan tools, cara bekerja dalam worksheet, hingga penggunaan Logical test dan berbagai Function, lengkap dengan prakteknya oleh instruktur.&nbsp;</div>
+<div><br></div>
+<div>Setelah mempelajari dasar Microsoft Word dan Microsoft Excel, topik selanjutnya adalah pembukuan untuk pengelola toko yang membahas konsep dasar akuntansi, pembukuan berbasis kas dan pembukuan berbasis akrual. Materi disampaikan secara runtut dan dipraktekkan langkah demi langkah lengkap dengan contoh kasusnya.</div>
+<div><br></div>
+<div><u><strong>Tujuan Umum</strong></u></div>
+<div>Peserta mampu membuat pembukuan menggunakan Microsoft Office sesuai dengan konsep dasar akuntansi berdasarkan standar kompetensi pelaksana perdagangan ritel koperasi</div>
+<div><br></div>
+<div><u><strong>Tujuan Khusus</strong></u></div>
+<div>1. Peserta mampu memahami kegunaan Microsoft Word dan Microsoft Excel dalam pembukuan toko</div>
+<div>2. Peserta mampu menerapkan panel penting pada Microsoft Word dan Microsoft Excel dalam pembukuan toko</div>
+<div>3. Peserta mampu memahami pentingnya mempelajari pembukuan dan konsep dasar akuntansi</div>
+<div>4. Peserta mampu mempelajari apa itu debit, kredit, dan bagaimana cara penulisan jurnal&nbsp;</div>
+<div>5. Peserta mampu mencatat dan menganalisa transaksi toko</div>
+<div>6. Teliti dalam ketepatan saat mengisi formulir atau berkas-berkas administrasi</div>
+<div><br></div>
+<div><u><strong>Kelompok Sasaran &amp; Prasyarat</strong></u></div>
+<div>1. Pengelola toko yang ingin mempelajari dasar Microsoft Office (Microsoft Word dan Microsoft Excel)</div>
+<div>2. Pengelola toko yang ingin mempelajari pembukuan menggunakan Microsoft Office</div>
+<div>3. Pengelola toko yang ingin mempelajari konsep dasar akuntansi untuk pembukuan toko</div>
+<div>4. Memiliki perangkat komputer/laptop dan aplikasi Microsoft Office (Microsoft Word &amp; Microsoft Excel) yang terinstall</div>
+<div><br></div>
+<div><u><strong>Aspek Kompetensi</strong></u></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_44ycai_6787.JPG"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_xasb4r_3319.JPG"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_mnfhzs_9267.JPG"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_9wnq2g_2177.JPG"></figure>
+<div><br></div>
+<div><u><strong>Metode Ajar</strong></u></div>
+<div>LMS dengan Ceramah, Studi Kasus, Membaca handout, dan Peragaan</div>
+<div><u><strong>Jadwal Sesi Tanya Jawab</strong></u></div>
+<div>Tiap Jumat, jam 16.00-17.00 WIB bersama dengan Annisa Ainina</div>
+<div><br></div>
+<div><u><strong>Tagging:</strong></u></div>
+<div>Okupasi, Tenaga usaha jasa dan penjualan, Pengelola Toko, Admin, Memahami Kegunaan Microsoft Word dan Excel, Membuat Pembukuan Toko, Teliti, Dasar Microsoft Word dan Microsoft Excel, Konsep Dasar Akuntansi, Pembukuan Berbasis Kas dan Akrual&nbsp;</div>
+<div><br></div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-6lra3b"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.7</span><span class="css-1u7e0s0" data-testid="rating-count">(109 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 725.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/jago-wordpress-dalam-2-jam-langsung-bisa-bikin-website-toko-online-sendiri/COURSE-B5MUOM79?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-1ics137" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Jago WordPress dalam 2 jam! Langsung Bisa Bikin Website Toko Online Sendiri!</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_4wdfi5_8540.jpg?convert=webp" alt="Jihan Ariya Wiyana" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Jihan Ariya Wiyana</h2><p class="css-209ryh" data-testid="instructor-description">Digital Marketing &amp; WordPress Enthusiast</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Detail Kelas</strong></u><br>
+WordPress merupakan Content Management System (CMS) yang paling banyak digunakan di dunia dan di Indonesia. WordPress sebagai CMS memudahkan kamu untuk membuat sebuah website tanpa perlu pusing memikirkan coding yang sulit dimengerti.<br>
+Di kelas ini kamu akan mempelajari cara membuat WordPress untuk bisnis, mulai dari menginstall XAMPP sebagai tahap pertama, memahami fungsi dan menu pada dashboard WordPress, menggunakan theme, page, dan post, memilih widget dan plugin sehingga websitemu memiliki tampilan menarik dan menghasilkan pembeli. <br>
+</div>
+<div><u><strong>Target Peserta</strong></u><br>
+Kelas ini cocok untuk masyarakat umum yang ingin memahami cara membuat website toko online sendiri ataupun pemilik online shop di media sosial (facebook, instagram, dll.) yang belum memiliki website toko online sendiri.<br>
+</div>
+<div><u><strong>Tujuan Umum</strong></u><br>
+Kamu akan dapat menjelaskan cara membuat website toko online sendiri menggunakan WordPress</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-1r1tovy"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.9</span><span class="css-1u7e0s0" data-testid="rating-count">(10578 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">50%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 300.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 150.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/mengelola-administrasi-untuk-juru-tata-usaha-surat-menyurat-admin/COURSE-TFWBVVLM?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-10yixaf" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Mengelola Administrasi untuk Juru Tata Usaha Surat Menyurat (Admin)</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1x32ujm" data-testid="instructor-avatar"><div class="css-t64mh0"></div><div class="css-1spnjr9"></div><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_1muywk_1680.jpg?convert=webp" alt="Melania Niken Larasati, Adilla Inda, Annisa Ainina Novara, Regina Rima Rianti" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Melania Niken Larasati, Adilla Inda, Annisa Ainina Novara, Regina Rima Rianti</h2><p class="css-209ryh" data-testid="instructor-description">Manager Progam, VP Sales &amp; Marketing of Ruangguru, Trainer Personal Development, Executive Secretary</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Deskripsi Kelas</strong></u>&nbsp;</div>
+<div>Juru tata usaha surat menyurat memiliki peran yang penting dalam organisasi atau perusahaan. Sesuai dengan Klasifikasi Jabatan Baku Indonesia (KBJI) 2014, juru tata usaha surat menyurat bertugas menulis korespondensi bisnis, membuat konsep surat menyurat dan notulen, membuat laporan narasi, serta menulis dan menjawab surat bisnis dan korespondensi lain.&nbsp;</div>
+<div><br></div>
+<div>Untuk itu, juru tata usaha perlu memiliki beberapa keahlian, seperti dasar korespondensi, mengoperasikan Microsoft Word dan Microsoft Excel, serta manajemen <em>file</em>.&nbsp;</div>
+<div><br></div>
+<div>Kelas ini berisi empat topik besar, yakni dasar korespondensi, dasar Microsoft Word, dasar Microsoft Excel, dan manajemen<em> file</em>. Pada topik dasar korespondensi, peserta belajar akan diajak untuk mempelajari bentuk-bentuk korespondensi, bagaimana menulis e-mail, surat bisnis, membuat proposal, laporan, hingga proposal usaha. Pada topik Microsoft Word, peserta belajar akan mempelajari <em>tools</em> yang ada pada Microsoft Word, cara mengedit dan memformat teks, &nbsp;memasukan tabel, gambar, dan simbol ke dalam dokumen, membuat daftar isi, dan membuat surat dengan <em>mail merge</em>.&nbsp;</div>
+<div><br></div>
+<div>Kemudian pada dasar Microsoft Excel, peserta akan belajar tentang<em> tools</em> yang ada pada Microsoft Excel, dan cara bekerja dalam worksheet. Lalu yang terakhir pada topik manjemen file, peserta akan belajar mengatur dan menyimpan<em> file-file </em>pekerjaan agar rapi dan mudah ditemukan. Kelas ini cocok diikuti oleh peserta yang ingin mempersiapkan diri berkarier sebagai juru tata usaha surat menyurat. &nbsp;</div>
+<div><br></div>
+<div><u><strong>Tujuan Umum</strong></u>&nbsp;</div>
+<div>Peserta mampu melakukan dasar korespondensi bisnis dan mengelola administrasi untuk tata usaha surat menyurat dengan tepat sesuai SKKNI 183 tahun 2016 tentang Administrasi Profesional</div>
+<div><br></div>
+<div><u><strong>Tujuan Khusus</strong></u>&nbsp;</div>
+<div>1. Peserta mampu memahami okupasi juru tata usaha surat menyurat</div>
+<div>2. Peserta mampu menerapkan cara menulis email, surat bisnis, laporan, dan proposal usaha</div>
+<div>3. Peserta mampu mengoperasikan Microsoft Word dan microsoft Excel untuk mengerjakan tugas juru tata usaha surat menyurat</div>
+<div>4. Peserta mampu teliti dan bertanggungjawab dalam membuat, memeriksa, dan menyimpan dokumen</div>
+<div><br></div>
+<div><u><strong>Kelompok Sasaran &amp; Prasyarat</strong></u>&nbsp;</div>
+<div>1. Pendidikan minimal SMA/sederajat</div>
+<div>2. Memiliki ketertarikan berkarier sebagai juru tata usaha surat menyurat</div>
+<div>3. Memiliki gadget (PC, laptop, atau smartphone) dengan aplikasi untuk menulis (Microsoft Word/Microsoft Excel)</div>
+<div><br></div>
+<div><u><strong>Aspek Kompetensi</strong></u>&nbsp;</div>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_u4jf5z_7194.jpg"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_qotaeh_8640.jpg"></figure>
+<div><br></div>
+<div><br></div>
+<div><u><strong>Metode Ajar</strong></u>&nbsp;</div>
+<div>LMS dengan Ceramah, Studi Kasus, Membaca handout, Peragaan, Simulasi&nbsp;</div>
+<div><br></div>
+<div><u><strong>Jadwal Sesi Tanya Jawab</strong></u>&nbsp;</div>
+<div>Tiap Jumat, jam 16.00-17.00 WIB bersama dengan Annisa Ainina&nbsp;</div>
+<div><br></div>
+<div><u><strong>Tagging</strong></u></div>
+<div>Okupasi, Tenaga tata usaha, Juru Tata Usaha Surat Menyurat, Admin Kantor, Mengenal Korespondensi Bisnis, Membuat Dokumen Elektronik, Teliti Membuat dan Menyimpan Dokumen, Admin, Microsoft Word, Microsoft Excel&nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-nnyh3b"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.8</span><span class="css-1u7e0s0" data-testid="rating-count">(123 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 700.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/strategi-pemasaran-destinasi-pariwisata-untuk-tingkatkan-jumlah-pengunjung/COURSE-Z73YLCD6?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-ozncpn" data-testid="course-image"></div></div><div class="css-1qg0lpo"><h2 class="css-1oohd5r" data-testid="course-title">Strategi Pemasaran Destinasi Pariwisata untuk Tingkatkan Jumlah Pengunjung</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1kfck0d" data-testid="instructor-avatar"><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_qwiwld_4594.jpg?convert=webp" alt="Faiz Karim" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Faiz Karim</h2><p class="css-209ryh" data-testid="instructor-description">Business and Marketing Director Roote Trails</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Detail Kelas</strong></u><br>
+Sektor pariwisata menjadi salah satu bisnis yang menjanjikan. Hal ini membuat bisnis tersebut membutuhkan strategi yang tepat untuk meningkatkannya, atau biasa disebut sebagai ilmu pemasaran. Di kelas ini kamu akan mempelajari ilmu pemasaran pariwisata, mulai dari karakteristik, prinsip-prinsip, perilaku pengunjung, riset pasar dan pemasaran, segmentasi pasar, menetapkan target pasar, juga langkah-langkah membangun citra destinasi, merk destinasi, memahami elemen-elemen komunikasi pemasaran destinasi, hingga merencanakan pemasaran destinasi pariwisata sehingga bisnis pariwisata tersebut dapat dipromosikan dengan tepat. &nbsp;<br>
+</div>
+<div><u><strong>Target Peserta</strong></u><br>
+Kelas ini cocok untuk pengelola destinasi pariwisata, pemasar (marketers) destinasi pariwisata, mahasiswa, fresh graduate, ataupun umum yang tertarik mempelajari tentang &nbsp;pemasaran destinasi pariwisata.<br>
+</div>
+<div><u><strong>Tujuan Umum</strong></u><br>
+Kamu akan dapat menjelaskan strategi pemasaran destinasi pariwisata untuk meningkatkan jumlah pengunjung.&nbsp;</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-dv4a60"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.9</span><span class="css-1u7e0s0" data-testid="rating-count">(4556 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="discount-percentage"><div class="css-4ks2sd"><p class="css-1trcslv">70%</p></div></div><div class="css-1cnf5md"><p class="css-of4zx2" data-testid="price-base">Rp 500.000</p></div></div></div></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 150.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div><div class="css-1ibwzdy"><a class="css-rwj60y" href="/course-detail/melakukan-komunikasi-efektif-dan-persuasi-untuk-menjadi-telemarketing/COURSE-VJQM2W51?courseType=SingleCourse" target="_self"><div class="css-1de9asv" data-testid="course-card"><div class="css-1u0gzfm"><div class="css-1130oij"><div class="css-w0p89p"><div class="css-1q343m0" data-testid="course-image"></div></div><div class="css-1qg0lpo"><div class="css-1tc80em"><div class="css-1bx5tcc"><p class="css-1vy8ir8">PRAKERJA</p></div><div class="css-q40kbc"><p class="css-1vy8ir8">BEST SELLER</p></div></div><div class="css-16u3y6"></div><h2 class="css-1oohd5r" data-testid="course-title">Melakukan Komunikasi Efektif dan Persuasi untuk Menjadi Telemarketing</h2><div class="css-72lcby"></div><div class="css-cennm4"><div class="css-1x32ujm" data-testid="instructor-avatar"><div class="css-t64mh0"></div><div class="css-1spnjr9"></div><div class="css-1oy6pow"><div class="css-1l7aa2q"><img class="css-1a2v9hb" src="https://imgix2.ruangguru.com/assets/miscellaneous/image_wr677u_1460.jpg?convert=webp" alt="Angela Dina Oktavia, Bima Cakra Adhiguna, Rachmalia Nikijuluw" loading="lazy"></div></div></div><div class="css-13ookwh"><h2 class="css-189195y" data-testid="instructor-name">Angela Dina Oktavia, Bima Cakra Adhiguna, Rachmalia Nikijuluw</h2><p class="css-209ryh" data-testid="instructor-description">Partnership Manager, Communication Trainer, Head of Telesales and Inside Sales di MOKA, Deputi Direktur Pusat Teknologi Inggris-Indonesia</p></div></div><div class="css-14p6b7u"></div><div class="css-1rmhad2" data-testid="course-description"><div class="css-py8i3c"><div><u><strong>Deskripsi Kelas</strong></u></div>
+<div>Pedagang melalui pusat informasi merupakan salah satu profesi yang masuk ke dalam daftar pekerjaan dengan permintaan tinggi. Hal ini sesuai dengan data Indotask tahun 2020. Bahkan, pekerjaan ini menempati peringkat 50 teratas dalam Outlook Kesempatan Kerja Online (OKKO) berdasarkan total jumlah iklan lowongan kerja selama kuartal pertama 2020.</div>
+<div><br></div>
+<div>Salah satu profesi yang menjawab kebutuhan pekerjaan tersebut adalah telesales. Sebagai profesi yang menjalankan fungsi penjualan, tentunya seorang telesales harus menguasai kemampuan berjualan melalui telepon. Tentunya ada perbedaan antara berjualan secara tatap muka langsung dengan berjualan melalui telepon, sehingga seorang telesales perlu menguasai teknik-teknik khusus telesales agar berhasil memperoleh penjualan melalui telepon.</div>
+<div><br></div>
+<div>Maka dari itu, kelas ini dirancang agar peserta mampu menguasai kompetensi menjadi pedagang melalui pusat informasi atau telesales. Melalui kelas ini, peserta akan mempelajari materi yang dimulai dari pemahaman mengenai kunci-kunci sukses telesales, seperti persiapan-persiapan yang harus dilakukan, kesalahan umum yang harus dihindari, serta penerapan 9 teknik khusus telesales. Di kelas ini, peserta juga akan memperdalam kemampuan dasar yang harus dikuasai oleh telesales, yaitu kemampuan komunikasi dan persuasi. Sehingga peserta akan mendapatkan materi cara berkomunikasi efektif dalam dunia profesional dan juga teknik-teknik persuasi yang bisa diterapkan ketika melakukan proses berjualan di telepon.</div>
+<div><br></div>
+<div>Setelah mengikuti kelas ini, diharapkan peserta dapat menerapkan cara berjualan melalui telepon dengan efektif dan profesional.</div>
+<div><br></div>
+<div><u><strong>Tujuan Umum</strong></u></div>
+<div>Setelah menyelesaikan video dan PDF serta mengerjakan tes, peserta mampu menerapkan teknik-teknik khusus telesales serta kemampuan komunikasi dan persuasi sesuai dengan standar tele<b>marketing</b> di perusahaan.</div>
+<div><br></div>
+<div>&nbsp;</div>
+<div><u><strong>Tujuan Khusus</strong></u></div>
+<ol>
+  <li>Menjelaskan kemampuan-kemampuan yang harus dimiliki oleh telesales</li>
+  <li>Menerapkan persiapan yang harus dilakukan sebelum melakukan panggilan telepon</li>
+  <li>Menerapkan 9 teknik khusus telesales</li>
+  <li>Menggunakan pilihan kalimat yang tepat untuk merespon jawaban calon pelanggan</li>
+  <li>Menguraikan sikap-sikap dalam berkomunikasi</li>
+  <li>Menjabarkan cara melakukan komunikasi efektif pada pihak internal dan eksternal</li>
+  <li>Menguraikan hambatan-hambatan dalam berkomunikasi dan cara mengatasinya</li>
+  <li>Menguraikan cara melakukan negosiasi</li>
+  <li>Menguraikan cara menggunakan emosi dalam berkomunikasi</li>
+  <li>Mencontohkan etika kerja dalam bentuk komunikasi nonverbal</li>
+  <li>Menguraikan kemampuan-kemampuan berkomunikasi yang dibutuhkan oleh tele<b>marketing</b>/telesales</li>
+  <li>Menguraikan etika persuasi</li>
+  <li>Menguraikan 5 sikap yang harus dimiliki pembicara terpercaya</li>
+  <li>Menyusun pesan persuasi yang efektif</li>
+  <li>Menentukan cara persuasi berdasarkan target/tipe audiens</li>
+  <li>Menerapkan langkah membangun rapport</li>
+  <li>Membedakan dan menggunakan 9 teknik persuasi</li>
+</ol>
+<div>&nbsp;</div>
+<div><u><strong>Kelompok Sasaran &amp; Prasyarat</strong></u></div>
+<ol>
+  <li>Pendidikan minimal SMA/sederajat</li>
+  <li>Memiliki ketertarikan berkarier sebagai telesales/tele<b>marketing</b></li>
+  <li>Mampu berkomunikasi dengan lancar</li>
+</ol>
+<div><br></div>
+<div><u><strong>Aspek Kompetensi</strong></u></div>
+<div><br></div>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_5vapzr_381.jpg"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_xq3hev_8925.jpg"></figure>
+<div><br></div>
+<figure><img src="https://core-ruangguru.s3.amazonaws.com/assets/miscellaneous/image_h5tixl_9624.jpg"></figure>
+<div><u><strong>Metode Ajar</strong></u></div>
+<div>LMS dengan ceramah, peragaan, studi kasus dan membaca hand out.&nbsp;</div>
+<div><br></div>
+<div>&nbsp;</div>
+<div><u><strong>Jadwal Sesi Tanya Jawab</strong></u></div>
+<div>Tiap Jumat, jam 16.00-17.00 WIB, Mulai dari 23 Juli 2021 bersama Rachmalia Nikijuluw (Okkie).</div>
+<div><br></div>
+<div>&nbsp;</div>
+<div>Tagging: Okupasi, Tenaga Usaha Jasa dan Penjualan, Pedagang Melalui Telepon, Penjualan, Komunikasi, Percaya Diri, Sales, Persuasi.</div></div></div></div></div><div class="css-1ym78w3"></div><div class="css-1vkhgsa"><div class="css-cennm4" data-testid="star-rating"><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-s20vwo"></div><div class="css-pvpcy3"><div class="css-1b91c1u"></div><div class="css-dv4a60"><div class="css-s20vwo"></div></div></div></div><p class="css-1de6bi8"><span class="css-15mk8vc" data-testid="rating-text">4.9</span><span class="css-1u7e0s0" data-testid="rating-count">(1130 rating)</span></p><div class="css-hrnk9q"></div><div class="css-2qlkz1"><div class="css-1cnf5md"></div><div class="css-1cnf5md"><p class="css-hzlfke" data-testid="price-final">Rp 425.000</p></div></div><div class="css-1ej8w1m"></div><div class="css-18stsh5" data-testid="buy-course"><div class="css-181g2b6"><p class="css-wc5b3e">BELI SEKARANG</p></div></div></div></div></div></a></div></div><span style="display: table; clear: both;"></span></div><div style="box-sizing: border-box; position: relative; margin: 4.5rem auto 2.7rem; padding-left: 15px; padding-right: 15px; max-width: 1199px;"><div class="css-10fk588"><div class="css-nq6m3"><div class="css-cennm4"><div class="css-1cnf5md"><p class="css-cif80s">Menampilkan</p></div><div class="css-eqsj4j"></div><div class="css-1cnf5md" data-testid="pagination-per-page"><div class="css-197a3pu css-2b097c-container"><div class=" css-1ce2tg8-control"><div class=" css-1hwfws3"><div class=" css-5sz5u5-singleValue">20</div><div class="css-f3idvt"><div class="" style="display: inline-block;"><input autocapitalize="none" autocomplete="off" autocorrect="off" id="react-select-5-input" spellcheck="false" tabindex="0" type="text" aria-autocomplete="list" value="" style="box-sizing: content-box; width: 2px; background: 0px center; border: 0px; font-size: inherit; opacity: 1; outline: 0px; padding: 0px; color: inherit;"><div style="position: absolute; top: 0px; left: 0px; visibility: hidden; height: 0px; overflow: scroll; white-space: pre; font-size: 14px; font-family: &quot;Source Sans Pro&quot;, Helvetica; font-weight: 400; font-style: normal; letter-spacing: normal; text-transform: none;"></div></div></div></div><div class=" css-1wy0on6"><span class=" css-43ykx9-indicatorSeparator"></span><div aria-hidden="true" class=" css-onq1ur-indicatorContainer"><svg height="20" width="20" viewBox="0 0 20 20" aria-hidden="true" focusable="false" class="css-19bqh2r"><path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z"></path></svg></div></div></div></div></div><div class="css-eqsj4j"></div><div class="css-1cnf5md"><p class="css-cif80s" data-testid="total-item">dari 27 Kelas</p></div></div></div><div class="css-1cnf5md"></div><div class="css-1cnf5md"><div class="css-cennm4"><div class="css-1cnf5md" data-testid="pagination-prev"><div class="css-wyn6i4"><div class="css-1mzxtq6"><img alt="Chevron Left White" src="https://cdn2.skillacademy.com/assets/f1af4571a4/Chevron_Left_White.8346550ac9edc01de9ed92ac5376423e.svg" loading="lazy"></div></div></div><div class="css-1cnf5md" data-testid="pagination-page-1"><div class="css-wyn6i4"><div class="css-1g3hvr7"><p class="css-wc5b3e">1</p></div></div></div><div class="css-1cnf5md" data-testid="pagination-page-2"><div class="css-wyn6i4"><div class="css-1wb5y8"><p class="css-wc5b3e">2</p></div></div></div><div class="css-1cnf5md" data-testid="pagination-next"><div class="css-wyn6i4"><div class="css-1o862ue"><img alt="Chevron Right White" src="https://cdn2.skillacademy.com/assets/f1af4571a4/Chevron_Right_White.11b60f2be68efa462a8b483bfb82429f.svg" loading="lazy"></div></div></div></div></div></div><span style="display: table; clear: both;"></span></div><div class="css-1itrq18" data-testid="footer"><div style="box-sizing: border-box; position: relative; margin-left: auto; margin-right: auto; padding-left: 15px; padding-right: 15px; max-width: 1199px;"><div class="css-1ghx16l"><div class="css-tdgblc"><div class="css-y2ob9i"><p class="css-1qfa1qc">Tentang</p><div class="css-jnjpis"><div class="css-1q27p4l"><div class="css-1ymywrz"><a class="css-a3nmkj" href="/info/about" target="_self" data-testid="footer-about-us"><p class="css-cif80s">Tentang Kami</p></a></div><div class="css-1ymywrz"><a class="css-a3nmkj" href="/info/bantuan/umum" target="_self" data-testid="footer-help"><p class="css-cif80s">Bantuan</p></a></div><div class="css-1ymywrz"><a class="css-a3nmkj" href="https://mitra.skillacademy.com" target="_blank" data-testid="footer-be-partner"><p class="css-cif80s">Jadi Mitra</p></a></div></div><div class="css-1q27p4l"><div class="css-1ymywrz"><a class="css-a3nmkj" href="/info/contact" target="_self" data-testid="footer-contact-us"><p class="css-cif80s">Kontak Kami</p></a></div><div class="css-1ymywrz"><a class="css-a3nmkj" href="https://career.ruangguru.com/" target="_self" data-testid="footer-career"><p class="css-cif80s">Karir</p></a></div></div></div></div><div class="css-y2ob9i"><p class="css-1qfa1qc">Lainnya</p><div class="css-jnjpis"><div class="css-1q27p4l"><div class="css-1ymywrz"><a class="css-a3nmkj" href="/legal/terms-and-conditions" target="_self" data-testid="footer-terms-and-conditions"><p class="css-cif80s">Syarat dan Ketentuan</p></a></div><div class="css-1ymywrz"><a class="css-a3nmkj" href="/legal/privacy-policy" target="_self" data-testid="footer-privacy-policy"><p class="css-cif80s">Kebijakan Privasi</p></a></div><div class="css-1ymywrz"><a class="css-a3nmkj" href="/info/press-kit" target="_self" data-testid="footer-press-kit"><p class="css-cif80s">Press Kit</p></a></div><div class="css-1ymywrz"><a class="css-a3nmkj" href="/sertifikat" target="_self" data-testid="footer-certificate-verification"><p class="css-cif80s">Verifikasi Sertifikat</p></a></div></div><div class="css-1q27p4l"><div class="css-1ymywrz"><a class="css-a3nmkj" href="https://enterprise.skillacademy.com/" target="_self" data-testid="footer-skillacademy-enterprise"><p class="css-cif80s">For Enterprise</p></a></div><div class="css-1ymywrz"><a class="css-a3nmkj" href="https://careermentoring.skillacademy.com" target="_self" data-testid="footer-career-guidance"><div class="css-cennm4"><p class="css-cif80s">Career Mentoring</p><div class="css-199i8dw"></div><img alt="New Red" src="https://cdn2.skillacademy.com/assets/f1af4571a4/New_Red.e4b5ef59effb4bfb0bc91dc1b9ede8c4.svg" loading="lazy"></div></a></div><div class="css-1ymywrz"><a class="css-a3nmkj" href="https://docs.google.com/forms/d/e/1FAIpQLSfsymsfJaPk2c7XF4P9xrH7UO0UsR1yFrhntICTbDsmp1HP2Q/viewform" target="_blank" data-testid="footer-instructor-recommendation"><div class="css-cennm4"><p class="css-cif80s">Rekomendasi Instruktur</p><div class="css-199i8dw"></div><img alt="New Red" src="https://cdn2.skillacademy.com/assets/f1af4571a4/New_Red.e4b5ef59effb4bfb0bc91dc1b9ede8c4.svg" loading="lazy"></div></a></div><div class="css-1ymywrz"><a class="css-a3nmkj" href="https://blog.skillacademy.com/" target="_blank" data-testid="footer-blog"><p class="css-cif80s">Blog Skill Academy</p></a></div><div class="css-1ymywrz"><a class="css-a3nmkj" href="https://promo.skillacademy.com/" target="_blank" data-testid="footer-promo"><p class="css-cif80s">Promo Skill Academy</p></a></div></div></div></div></div><div class="css-9inay4"></div><div class="css-1jdd4b9"><div class="css-1rmhad2" data-testid="footer-available-now"><p class="css-1qfa1qc">Available Now</p><a class="css-a3nmkj" href="https://play.google.com/store/apps/details?id=com.skillacademy.mobile" target="_self" data-testid="footer-google-play"><div class="css-1nv1af6"><img class="css-1rpv226" src="https://cdn2.skillacademy.com/assets/f1af4571a4/DownloadPlayStore.b979bb1a576f6370eb2d9725c590582c.png" alt="Download Play Store" loading="lazy"></div></a></div><div class="css-1kt5jk9"></div><div class="css-1rmhad2" data-testid="footer-coming-soon-on"><p class="css-1qfa1qc">Coming Soon On</p><div class="css-1nv1af6"><img class="css-aspdpm" src="https://cdn2.skillacademy.com/assets/f1af4571a4/DownloadAppStore.119cc8177a225565622231d02733127d.png" alt="Download App Store" loading="lazy"></div></div></div></div><div class="css-tn5rkx"></div><div class="css-1ghx16l"><div class="css-10epu5e"><div class="css-1cnf5md"><img alt="Pin Green" src="https://cdn2.skillacademy.com/assets/f1af4571a4/Pin_Green.4e7f495872036caa0c17d6df3edbf204.svg" loading="lazy"></div><div class="css-eqsj4j"></div><p class="css-1h3wma2">Jl. Dr. Saharjo No.161, Manggarai Selatan, Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12860</p></div></div><div class="css-1ghx16l"><div class="css-1cnf5md"><div class="css-1hftep7" data-testid="footer-copyright"><p class="css-cif80s">© 2021 Skill Academy. All Rights Reserved</p></div></div><div class="css-1m5xake"><div class="css-1f5u5rz"><div class="css-1cnf5md"><div class="css-17e3csr"><div class="css-12zarsm" data-testid="footer-whatsapp-outline"><div class="css-36cvt1"><img alt="Whatsapp Outline" src="https://cdn2.skillacademy.com/assets/f1af4571a4/Whatsapp_Outline.bdc8700a18ab637fbcd8eac4cde60841.svg" loading="lazy"></div><div class="css-eqsj4j"></div><p class="css-cif80s">+62 815 7890 0000 (10:00-17:00 WIB)</p></div></div></div><div class="css-1kt5jk9"></div><div class="css-1cnf5md"><div class="css-1jdd4b9"><a class="css-rwj60y" href="https://www.instagram.com/skillacademy.id" target="_blank" data-testid="footer-instagram-icon"><img alt="Instagram Square" src="https://cdn2.skillacademy.com/assets/f1af4571a4/Instagram_Square.f803eb1e10b6da2d0df170cc0208479a.svg" loading="lazy"></a><div class="css-1kt5jk9"></div><a class="css-rwj60y" href="https://www.linkedin.com/company/skillacademy-id" target="_blank" data-testid="footer-linkedin-icon"><img alt="LinkedIn Square" src="https://cdn2.skillacademy.com/assets/f1af4571a4/LinkedIn_Square.2e432558acfd1f2679fbb34888aa085a.svg" loading="lazy"></a></div></div></div></div></div><span style="display: table; clear: both;"></span></div></div></div></div></div></div>
+  <div id="modal-root"></div>
+
+      <script src="https://cdn2.skillacademy.com/assets/f1af4571a4/vendor.517d8616fa2105fd18c2.js" defer="" crossorigin=""></script>
+      <script src="https://cdn2.skillacademy.com/assets/f1af4571a4/client.517d8616fa2105fd18c2.js" defer="" crossorigin=""></script>
+    
+
+
+<script type="text/javascript" id="" src="//dynamic.criteo.com/js/ld/ld.js?a=82764"></script>
+	<script type="text/javascript" id="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("C4ATQAEJGOC88M14N1N0");a.page()}(window,document,"ttq");</script>
+	
+<div id="criteo-tags-div" style="display: none;"><iframe src="https://gum.criteo.com/syncframe?topUrl=skillacademy.com&amp;origin=onetag#{&quot;bundle&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;cw&quot;:true,&quot;optout&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;origin&quot;:&quot;onetag&quot;,&quot;pm&quot;:0,&quot;sid&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;tld&quot;:&quot;skillacademy.com&quot;,&quot;topUrl&quot;:&quot;skillacademy.com&quot;,&quot;version&quot;:&quot;5_7_2&quot;,&quot;ifa&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;lsw&quot;:true}" id="criteo-syncframe-onetag" width="0" height="0" frameborder="0" style="border-width:0px; margin:0px; display:none" title="Criteo GUM iframe"></iframe><script async="true" type="text/javascript" src="https://sslwidget.criteo.com/event?a=82764&amp;v=5.7.2&amp;p0=e%3Dce%26m%3D%255B%255D&amp;p1=e%3Dexd%26z%3D%26site_type%3Dd&amp;p2=e%3Dvh%26tms%3Dgtm-ee-1.1.0&amp;p3=e%3Ddis&amp;adce=1&amp;bundle=eUzA1V80TkFORFZwTW9HJTJCRlZPbFo1bzhLeSUyRiUyQkh2MHJxbDc2UjRqTzg3RkwxZlhleE81YXRBJTJCWDVPSndEN0YlMkJRaTA4JTJCVkNVSXdneFBaSlolMkZadTREOUN5TmpnUTdvaU9VYmh5cE0xcDFTOHFVNXhNY1VHT25qJTJCU0NrYTNtayUyRmRPT2M4YkVsTU9yc29CZTE4UHRzeDZMNWxJb2clM0QlM0Q&amp;tld=skillacademy.com&amp;dtycbr=47759"></script></div>
+<script type="text/javascript" id="">-1==document.location.href.search("gtm-msr.appspot")&&(window.criteo_q=window.criteo_q||[],window.criteo_q.push({event:"setAccount",account:google_tag_manager["GTM-T5SBK6R"].macro(7)},{event:"setEmail",email:google_tag_manager["GTM-T5SBK6R"].macro(8)},{event:"setZipcode",zipcode:google_tag_manager["GTM-T5SBK6R"].macro(9)},{event:"setSiteType",type:google_tag_manager["GTM-T5SBK6R"].macro(10)},{event:"viewHome",tms:"gtm-ee-1.1.0"}));</script>
+<iframe height="0" width="0" title="Criteo DIS iframe" style="display: none;"></iframe><script type="text/javascript" id="">fbq("track","PageView");</script></body><iframe id="__JSBridgeIframe_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult__" style="display: none;"></iframe></html>

@@ -2,52 +2,16 @@
   "hints": [],
   "groups": [
     {
-      "sourceType": "com.gdn.qa.module.ui.test.properties.CartDataProperties",
-      "name": "cart",
-      "type": "com.gdn.qa.module.ui.test.properties.CartDataProperties"
-    },
-    {
-      "sourceType": "com.gdn.qa.module.ui.test.properties.DefaultProperties",
-      "name": "param",
-      "type": "com.gdn.qa.module.ui.test.properties.DefaultProperties"
+      "sourceType": "com.gdn.qa.module.ui.test.properties.SkillAcademyProperties",
+      "name": "sa",
+      "type": "com.gdn.qa.module.ui.test.properties.SkillAcademyProperties"
     }
   ],
   "properties": [
     {
-      "sourceType": "com.gdn.qa.module.ui.test.properties.CartDataProperties",
-      "name": "cart.data",
+      "sourceType": "com.gdn.qa.module.ui.test.properties.SkillAcademyProperties",
+      "name": "sa.data",
       "type": "java.util.HashMap<java.lang.String,java.lang.String>"
-    },
-    {
-      "sourceType": "com.gdn.qa.module.ui.test.properties.DefaultProperties",
-      "name": "param.channel-id",
-      "type": "java.lang.String"
-    },
-    {
-      "sourceType": "com.gdn.qa.module.ui.test.properties.DefaultProperties",
-      "name": "param.client-id",
-      "type": "java.lang.String"
-    },
-    {
-      "sourceType": "com.gdn.qa.module.ui.test.properties.DefaultProperties",
-      "name": "param.request-id",
-      "type": "java.lang.String"
-    },
-    {
-      "sourceType": "com.gdn.qa.module.ui.test.properties.DefaultProperties",
-      "name": "param.request-params",
-      "type": "java.lang.String"
-    },
-    {
-      "sourceType": "com.gdn.qa.module.ui.test.properties.DefaultProperties",
-      "name": "param.store-id",
-      "type": "java.lang.String"
-    },
-    {
-      "sourceType": "com.gdn.qa.module.ui.test.properties.DefaultProperties",
-      "defaultValue": false,
-      "name": "param.test",
-      "type": "java.lang.Boolean"
     }
   ]
 }

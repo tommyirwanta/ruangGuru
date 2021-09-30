@@ -1,0 +1,82 @@
+<html lang="id-ID"><head>
+    <!-- Global site GTM Analytics -->
+    <script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/config.js?sdkid=C4ATQAEJGOC88M14N1N0&amp;hostname=skillacademy.com"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C4ATQAEJGOC88M14N1N0&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://cdn.taboola.com/libtrc/unip/1407180/tfa.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-PQQLJEY9WY&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-KGEN8KBRBW&amp;l=dataLayer&amp;cx=c"></script><script src="https://connect.facebook.net/signals/config/848484172220637?v=2.9.47&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T5SBK6R"></script><script>
+      dataLayer = []
+    </script>
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-T5SBK6R');
+    </script>
+    <!-- End GTM Analytics -->
+    <script type="text/javascript">
+      var AKAMAI_MEDIA_ANALYTICS_CONFIG_FILE_PATH ='https://ma1528-r.analytics.edgekey.net/config/beacon-31062.xml';
+    </script>
+    <script src="https://79423.analytics.edgekey.net/html5/akamaihtml5-min.js"></script>
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window,document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '848484172220637'); 
+      fbq('track', 'PageView');
+    </script>
+    <noscript>
+      <img height="1" width="1" 
+      src="https://www.facebook.com/tr?id=848484172220637&ev=PageView
+      &noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+      <title>Skill Academy</title>
+      <meta name="title" content="Skill Academy">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://skillacademy-demo.s3-ap-southeast-1.amazonaws.com/favicon.ico">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link as="style" rel="stylesheet preload prefetch" href="https://fonts.googleapis.com/css?family=Rubik:500|Source+Sans+Pro:400,600,700,900|Montserrat:400,600,700,900&amp;display=swap" type="text/css" crossorigin="">
+
+
+
+  <script>
+    window._IS_BOT = false
+  </script>
+
+  <script>
+    window._CONFIGS = {"appName":"Skill Academy","favicon":"https://skillacademy-demo.s3-ap-southeast-1.amazonaws.com/favicon.ico","fontSrc":"https://fonts.googleapis.com/css?family=Rubik:500|Source+Sans+Pro:400,600,700,900|Montserrat:400,600,700,900&display=swap","akamaiVideoTracking":true,"apiEndpoint":"http://gw.rg.internal","trackerEndpoint":"https://tracker.ruangguru.com","appClientId":"729QGoN41A","appClientSecret":"ekh6PbuuO8swo2h5ajYJ","facebookAppId":"479506409510977","facebookRedirectUri":"https://skillacademy.com","fbPixelId":"848484172220637","apiCallTimeout":10000,"googleClientId":"804712196556-bdkmir3rvs401mc76pjoepkkv9edt7sj.apps.googleusercontent.com","sentryDSN":"https://5843765beea64b24a38dc9f3518ddb4c@sentry.io/1785552","environment":"production","isSSREnabled":false,"country":"id","appEndpoint":"https://gw.ruangguru.com","isCordova":false,"gtmId":"GTM-T5SBK6R","lang":"id-ID","publisher":"PT Ruang Raya Indonesia","gaTrackerId":"UA-148380173-1","adjustAppSecretId":1,"adjustAppSecretInfo1":1407650200,"adjustAppSecretInfo2":416586128,"adjustAppSecretInfo3":1886800546,"adjustAppSecretInfo4":1440508882,"ovoIntegrationEndpoint":"wss://ovo-integration-skillacademy.sirogu.com","wsBroadcastEndPoint":"wss://broadcast-staging.sirogu.com/api/v3","qiscusAppId":"ump-jks0xieqivs8uasfu","siteUrl":"https://skillacademy.com","minimalMissionPostTest":100,"enableNextJS":false}
+  </script>
+  <script>
+    window._STORE = {}
+  </script>
+  
+<script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/411229580/?random=1633016302322&amp;cv=9&amp;fst=1633016302322&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=2&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg9r0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fskillacademy.com%2F&amp;tiba=Skill%20Academy&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/627210856/?random=1633016302340&amp;cv=9&amp;fst=1633016302340&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=2&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg9r0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fskillacademy.com%2F&amp;tiba=Skill%20Academy&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/704731569/?random=1633016302343&amp;cv=9&amp;fst=1633016302343&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=2&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg9r0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fskillacademy.com%2F&amp;tiba=Skill%20Academy&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/928732224/?random=1633016302346&amp;cv=9&amp;fst=1633016302346&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=2&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg9r0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fskillacademy.com%2F&amp;tiba=Skill%20Academy&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="//static.criteo.net/js/ld/ld.js"></script><script charset="utf-8" src="https://analytics.tiktok.com/i18n/pixel/identify.js"></script><meta http-equiv="origin-trial" content="A4RpyXPHPXj2Tt0KMMrya+U6IibH8/6yFLknmyK5ZwpgUNYhhwGyllkLZNqKedteT7fKzxsI8p/Pbpbd4tEJOQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2NyaXRlby5uZXQ6NDQzIiwiZmVhdHVyZSI6IkludGVyZXN0Q29ob3J0QVBJIiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="></head>
+
+<body>
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5SBK6R"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+  <div id="root"></div>
+  <div id="modal-root"></div>
+
+      <script src="https://cdn2.skillacademy.com/assets/f1af4571a4/vendor.517d8616fa2105fd18c2.js" defer="" crossorigin=""></script>
+      <script src="https://cdn2.skillacademy.com/assets/f1af4571a4/client.517d8616fa2105fd18c2.js" defer="" crossorigin=""></script>
+    
+
+
+<script type="text/javascript" id="" src="//dynamic.criteo.com/js/ld/ld.js?a=82764"></script>
+	<script type="text/javascript" id="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("C4ATQAEJGOC88M14N1N0");a.page()}(window,document,"ttq");</script>
+	
+<div id="criteo-tags-div" style="display: none;"><iframe src="https://gum.criteo.com/syncframe?topUrl=skillacademy.com&amp;origin=onetag#{&quot;bundle&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;cw&quot;:true,&quot;optout&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;origin&quot;:&quot;onetag&quot;,&quot;pm&quot;:0,&quot;sid&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;tld&quot;:&quot;skillacademy.com&quot;,&quot;topUrl&quot;:&quot;skillacademy.com&quot;,&quot;version&quot;:&quot;5_7_2&quot;,&quot;ifa&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;lsw&quot;:true}" id="criteo-syncframe-onetag" width="0" height="0" frameborder="0" style="border-width:0px; margin:0px; display:none" title="Criteo GUM iframe"></iframe><script async="true" type="text/javascript" src="https://sslwidget.criteo.com/event?a=82764&amp;v=5.7.2&amp;p0=e%3Dce%26m%3D%255B%255D&amp;p1=e%3Dexd%26z%3D%26site_type%3Dd&amp;p2=e%3Dvh%26tms%3Dgtm-ee-1.1.0&amp;p3=e%3Ddis&amp;adce=1&amp;bundle=dbEKVV9wV3ppWGtlNXZ2WlRFT3dSTSUyRlQ0SXpzNmRBeWlJWjhrT3R0MjZoTWZpcTNpdnJnRSUyQjRqODV2WXVOSm8lMkYweUFOV2tkNW41NUttb2ZiJTJCR2plY1J5dzJGcDRhV3dVciUyRmFFNzg2NTk0TVprNFJGYkxSa2p3OHNrU2VMVDRpU1lVaXBXVzhtOFRCbk1WcFdmM1hXdEVwSWNBJTNEJTNE&amp;tld=skillacademy.com&amp;dtycbr=36867"></script></div>
+<script type="text/javascript" id="">-1==document.location.href.search("gtm-msr.appspot")&&(window.criteo_q=window.criteo_q||[],window.criteo_q.push({event:"setAccount",account:google_tag_manager["GTM-T5SBK6R"].macro(7)},{event:"setEmail",email:google_tag_manager["GTM-T5SBK6R"].macro(8)},{event:"setZipcode",zipcode:google_tag_manager["GTM-T5SBK6R"].macro(9)},{event:"setSiteType",type:google_tag_manager["GTM-T5SBK6R"].macro(10)},{event:"viewHome",tms:"gtm-ee-1.1.0"}));</script>
+<iframe height="0" width="0" title="Criteo DIS iframe" style="display: none;"></iframe></body><iframe id="__JSBridgeIframe_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult__" style="display: none;"></iframe></html>
