@@ -1,7 +1,7 @@
 @SkillAcademy
 Feature: Skill academy feature
 
-  @Positive @abc123
+  @Positive
   Scenario: search skill and get the correct result
     Given the user is on the skill academy home page
     When user search "valid" on search field

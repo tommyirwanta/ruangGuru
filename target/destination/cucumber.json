@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 4932936700,
+              "duration": 4036827800,
               "status": "passed"
             },
             "match": {
@@ -15,13 +15,13 @@
           }
         ],
         "line": 5,
-        "name": "search skill and get the correct result",
+        "name": "Hit discovery search",
         "description": "",
-        "id": "skill-academy-feature;search-skill-and-get-the-correct-result",
+        "id": "skill-academy-api;hit-discovery-search",
         "after": [
           {
             "result": {
-              "duration": 56600,
+              "duration": 285600,
               "status": "passed"
             },
             "match": {
@@ -34,86 +34,65 @@
         "steps": [
           {
             "result": {
-              "duration": 17670509000,
+              "duration": 283714300,
               "status": "passed"
             },
             "line": 6,
-            "name": "the user is on the skill academy home page",
+            "name": "prepare data for get search result",
             "match": {
-              "location": "SkillAcademySteps.theUserIsOnTheSkillAcademyHomePage()"
+              "location": "ApiSkillAcademy.prepareDataForGetSearchResult()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 1442741900,
+              "duration": 5111386100,
               "status": "passed"
             },
             "line": 7,
-            "name": "user search \"valid\" on search field",
+            "name": "send request for get discovery search",
             "match": {
-              "arguments": [
-                {
-                  "val": "valid",
-                  "offset": 13
-                }
-              ],
-              "location": "SkillAcademySteps.userSearchOnSearchField(String)"
+              "location": "ApiSkillAcademy.sendRequestForGetDiscoverySearch()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 1098364100,
+              "duration": 10448300,
               "status": "passed"
             },
             "line": 8,
-            "name": "user click search button",
-            "match": {
-              "location": "SkillAcademySteps.userClickSearchButton()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 966097100,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "user can see the result related \"valid\"",
+            "name": "response get member detail status message is \"success\"",
             "match": {
               "arguments": [
                 {
-                  "val": "valid",
-                  "offset": 33
+                  "val": "success",
+                  "offset": 46
                 }
               ],
-              "location": "SkillAcademySteps.userCanSeeTheResultRelated(String)"
+              "location": "ApiSkillAcademy.responseGetMemberDetailStatusMessageIs(String)"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@SkillAcademy"
+            "name": "@SkillAcademyAPI"
           },
           {
             "name": "@Positive"
-          },
-          {
-            "name": "@abc123"
           }
         ]
       }
     ],
-    "name": "Skill academy feature",
+    "name": "Skill academy API",
     "description": "",
-    "id": "skill-academy-feature",
+    "id": "skill-academy-api",
     "keyword": "Feature",
-    "uri": "src/test/resources/features/SkillAcademy.feature",
+    "uri": "src/test/resources/features/ApiSkillAcademy.feature",
     "tags": [
       {
-        "name": "@SkillAcademy",
+        "name": "@SkillAcademyAPI",
         "type": "Tag",
         "location": {
           "line": 1,
