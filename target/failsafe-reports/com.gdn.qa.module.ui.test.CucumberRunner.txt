@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.gdn.qa.module.ui.test.CucumberRunner
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 2, Errors: 2, Skipped: 6, Time elapsed: 56.952 s <<< FAILURE! - in com.gdn.qa.module.ui.test.CucumberRunner
+[badak-app] response time must be less than '2000' 'MILLISECONDS'(As A user I want to get data project list in Badak App)  Time elapsed: 0.032 s  <<< FAILURE!
+java.lang.AssertionError: 
+Response Time is More than 2000 seconds
+Expected: a value less than or equal to <2000L>
+     but: <2544L> was greater than <2000L>
+
+As A user I want to get data project list in Badak App  Time elapsed: 0.166 s  <<< FAILURE!
+java.lang.AssertionError: 
+Response Time is More than 2000 seconds
+Expected: a value less than or equal to <2000L>
+     but: <2544L> was greater than <2000L>
+
+[x-cart] send delete pending cart request(Order using api until FP)  Time elapsed: 21.057 s  <<< ERROR!
+java.lang.RuntimeException: Some exception during recording fields
+Caused by: java.net.ConnectException: Connection timed out: connect
+
+Order using api until FP  Time elapsed: 0.042 s  <<< ERROR!
+java.lang.RuntimeException: Some exception during recording fields
+Caused by: java.net.ConnectException: Connection timed out: connect
+

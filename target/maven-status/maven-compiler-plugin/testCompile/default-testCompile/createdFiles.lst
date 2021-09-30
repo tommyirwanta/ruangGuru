@@ -1,0 +1,6 @@
+com\gdn\qa\module\ui\test\steps\BadakSteps.class
+com\gdn\qa\module\ui\test\CucumberRunner.class
+com\gdn\qa\module\ui\test\steps\XCartSteps.class
+com\gdn\qa\module\ui\test\steps\MemberSteps.class
+com\gdn\qa\module\ui\test\hooks\CucumberHooks.class
+com\gdn\qa\module\ui\test\steps\DefinitionSteps.class

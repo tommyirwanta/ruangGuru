@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Get Project" skipped="0" tests="1" time="10.11" timestamp="2021-09-30 08:00:31"><testcase name="As A user I want to get data project list in Badak App"><failure message="Response Time is More than 2000 seconds&#10;Expected: a value less than or equal to &lt;2000L&gt;&#10;     but: &lt;2544L&gt; was greater than &lt;2000L&gt;" type="java.lang.AssertionError">Response Time is More than 2000 seconds
+Expected: a value less than or equal to &lt;2000L&gt;
+     but: &lt;2544L&gt; was greater than &lt;2000L&gt;</failure><system-err>Response Time is More than 2000 seconds
+Expected: a value less than or equal to &lt;2000L&gt;
+     but: &lt;2544L&gt; was greater than &lt;2000L&gt;&#13;
+com.gdn.qa.module.ui.test.steps.BadakSteps.badakAppResponseTimeMustBeLessThanSeconds(BadakSteps.java:49)&#13;
+✽.[badak-app] response time must be less than '2000' 'MILLISECONDS'(src/test/resources/features/GetProject.feature:9)&#13;
+</system-err></testcase></testsuite>
